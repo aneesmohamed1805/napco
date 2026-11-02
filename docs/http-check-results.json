@@ -1,0 +1,181 @@
+{
+  "method": "Local Node HTTP server on 127.0.0.1; not Cloudflare",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 30421
+    },
+    {
+      "path": "/products/adhesives/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 15778
+    },
+    {
+      "path": "/products/sealants/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 15720
+    },
+    {
+      "path": "/products/coatings/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 15708
+    },
+    {
+      "path": "/solutions/construction-solutions/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 16947
+    },
+    {
+      "path": "/solutions/industrial-solutions/automotive/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 16783
+    },
+    {
+      "path": "/solutions/industrial-solutions/electronics/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 16786
+    },
+    {
+      "path": "/solutions/industrial-solutions/packaging-paper/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 16736
+    },
+    {
+      "path": "/solutions/industrial-solutions/engineered-wood/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 16639
+    },
+    {
+      "path": "/solutions/industrial-solutions/furniture-building-components/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 16787
+    },
+    {
+      "path": "/solutions/industrial-solutions/manufacturing/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 16682
+    },
+    {
+      "path": "/corporate/napco-world/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 15542
+    },
+    {
+      "path": "/innovation/innovation-strategy/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 15595
+    },
+    {
+      "path": "/products/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 14739
+    },
+    {
+      "path": "/solutions/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 15746
+    },
+    {
+      "path": "/solutions/industrial-solutions/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 16447
+    },
+    {
+      "path": "/resource-hub/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 15670
+    },
+    {
+      "path": "/insights/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 15467
+    },
+    {
+      "path": "/contact/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 15075
+    },
+    {
+      "path": "/request-quote/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 15044
+    },
+    {
+      "path": "/search/",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 22201
+    },
+    {
+      "path": "/assets/site.css",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 31550
+    },
+    {
+      "path": "/assets/site.js",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 3202
+    },
+    {
+      "path": "/assets/brand/logo-display.png",
+      "status": 200,
+      "expected": 200,
+      "passed": true,
+      "bytes": 4643
+    },
+    {
+      "path": "/not-a-page/",
+      "status": 404,
+      "expected": 404,
+      "passed": true,
+      "bytes": 12703
+    }
+  ],
+  "passed": true
+}

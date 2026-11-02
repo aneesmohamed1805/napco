@@ -1,0 +1,257 @@
+{
+  "repository": "aneesmohamed1805/napco",
+  "verifiedAt": "2026-11-02T16:30:51.285777+00:00",
+  "sourceBundleSHA256": "0f632bdef64d618d5bf74a94cba9633378adc320a42241879068316947a7946f",
+  "sourceFiles": 22,
+  "mediaFiles": 27,
+  "allMediaMatchPreparedPackage": true,
+  "temporaryMediaURLsUsedByWebsite": false,
+  "deploymentPerformed": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 45,
+      "sha256": "986d20de09c5f05ab0018f7d6ab7fb51e27530b5c482b0069964d86e1eaf5402"
+    },
+    {
+      "path": ".nvmrc",
+      "bytes": 3,
+      "sha256": "f14b4987904bcb5814e4459a057ed4d20f58a633152288a761214dcd28780b56"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6792,
+      "sha256": "6e1508a14796d8802bef77ff4995560d65fe8a848cf8ec3d6b3e1c387b833bc0"
+    },
+    {
+      "path": "content/articles/_template.json",
+      "bytes": 520,
+      "sha256": "93ac312c0d048a0d85d806d14d94af43abd72a1597b69cda859c7dd0d0452d9c"
+    },
+    {
+      "path": "content/articles/wood-floor-adhesives-2019.json",
+      "bytes": 788,
+      "sha256": "7530e51a53902cd7037d332a791e2a968bf44f9db9f1735d524f91d0756be3f8"
+    },
+    {
+      "path": "content/pages.json",
+      "bytes": 16047,
+      "sha256": "046d0e155f4dacfc58428c235e755dfdf2107ce4bbb79da29dcae9624d3472ee"
+    },
+    {
+      "path": "content/site.json",
+      "bytes": 682,
+      "sha256": "742d469e0c16988411153fa74566c9584aade1a5e550f1c4e67149fc5c903fa4"
+    },
+    {
+      "path": "docs/ARTICLE-HANDOFF.md",
+      "bytes": 2823,
+      "sha256": "19c9fe7cf364f407313187f4d4d65947121f27d2e65f2c4f72422387efbea8c5"
+    },
+    {
+      "path": "docs/DECISIONS.md",
+      "bytes": 2547,
+      "sha256": "eb8f480ddd0f788d4a3cad576fe29cad125c916215db880b77376999c5d76c38"
+    },
+    {
+      "path": "docs/QA.md",
+      "bytes": 2909,
+      "sha256": "d52cf5d51198d53cd5243f1d6865a3ce5fef3a5536206826197b062a6da603e6"
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "bytes": 4186,
+      "sha256": "bf7d451eb35c6fe82d62f37a05c668f47ab4af8d35c45465403412ddba656a37"
+    },
+    {
+      "path": "docs/browser-check-results.json",
+      "bytes": 13117,
+      "sha256": "4143f1bed8f752a63bd41ee8bd920acbd9e934e13c3cbf4dd39717d817fbe857"
+    },
+    {
+      "path": "docs/build-manifest.json",
+      "bytes": 4092,
+      "sha256": "4168fe1454d05ed59320ec9f3e7491e77c6ac140f65bca64697363944914e8ba"
+    },
+    {
+      "path": "docs/http-check-results.json",
+      "bytes": 3674,
+      "sha256": "0e671046588213c4d88b512f3699b8f0ef4684f894e5e7e2eecf7e401543eb16"
+    },
+    {
+      "path": "docs/static-check-results.json",
+      "bytes": 1155,
+      "sha256": "0576345dbadb1a94dff75f512c5184ff40262cf55ca3764ffb19a1bc1fc11bdd"
+    },
+    {
+      "path": "package.json",
+      "bytes": 378,
+      "sha256": "8d66522071fa045c0eb0ff5512732551e87f978f3d1e08127b97f6778c1ecb36"
+    },
+    {
+      "path": "public/assets/adhesives-640.webp",
+      "bytes": 47142,
+      "sha256": "90cd1299ac3f6f3bcdead437587015d63ede49b8401cf5b9e7c453b7c7d2d981"
+    },
+    {
+      "path": "public/assets/adhesives.webp",
+      "bytes": 70922,
+      "sha256": "9bd74c35a1494d48a228c050e2a1d134ca5f2c7fb3d4a0b8e2bdda47afd3c9a7"
+    },
+    {
+      "path": "public/assets/architecture-640.webp",
+      "bytes": 15384,
+      "sha256": "89cd8719c9e92f1a877fda227eae54ac5d82851685bd1e5ef617c83660df2ebc"
+    },
+    {
+      "path": "public/assets/architecture.webp",
+      "bytes": 29486,
+      "sha256": "f7a899d734410a7922865abe05cdc6f37adeeef8a03390189b5b875c8771bbf9"
+    },
+    {
+      "path": "public/assets/asset-manifest.json",
+      "bytes": 6252,
+      "sha256": "cad9621937b9567084599e77972347792cf665d467a1b446e14bc6c50b053f2e"
+    },
+    {
+      "path": "public/assets/automotive-640.webp",
+      "bytes": 28786,
+      "sha256": "3b9ee440b4876546627bf8ddf6ef9b3acf1948fb5c0594ad8d0da457b1d71b00"
+    },
+    {
+      "path": "public/assets/automotive.webp",
+      "bytes": 99724,
+      "sha256": "b65ce3c375a31ba10242ec2ac5b323605a90642f982f2f36ea8c853a7674784a"
+    },
+    {
+      "path": "public/assets/brand/Napco-Logo.png",
+      "bytes": 7612,
+      "sha256": "ea6df81902504d9b65d6b44dff9c5d4e4048f414ac8551cda657be3cd22c1605"
+    },
+    {
+      "path": "public/assets/brand/logo-display.png",
+      "bytes": 4643,
+      "sha256": "52a0709df38a370647b696f9330d63e02f1703d600f200a254dcfb228d10f353"
+    },
+    {
+      "path": "public/assets/brand/napco-icon.png",
+      "bytes": 2726,
+      "sha256": "984935ebdd781875a343f889d8bd568282f37fe15a5404ac11088fd3f2da4499"
+    },
+    {
+      "path": "public/assets/coatings-640.webp",
+      "bytes": 2502,
+      "sha256": "e317ded9393835a232591f3e0c80a7be9ae6ea39b1550c41e3d5bc2ac3f505de"
+    },
+    {
+      "path": "public/assets/coatings.webp",
+      "bytes": 3142,
+      "sha256": "8170c221e5d7f7c801158f0e0e864ea093bb107d31aed0f112a036ff32cf1d8a"
+    },
+    {
+      "path": "public/assets/craft-640.webp",
+      "bytes": 19298,
+      "sha256": "59c290bc1e0cdc92db6ffdb3bbb8e743e9a8a7156d27b5f2300074b93aa1540a"
+    },
+    {
+      "path": "public/assets/craft.webp",
+      "bytes": 77296,
+      "sha256": "ddd2065ab45265a844c281273e7e4e417b668160a1553f72f99e9df9542593b0"
+    },
+    {
+      "path": "public/assets/electronics-640.webp",
+      "bytes": 29016,
+      "sha256": "2300b8ad54e60421ad512575b7d076c57b6b89292a975168837c37da2755e1b4"
+    },
+    {
+      "path": "public/assets/electronics.webp",
+      "bytes": 94014,
+      "sha256": "0f4afce6d01df2baaf9783f14362f9b3f1eaa5f4f43e2166073d782a3ac93e95"
+    },
+    {
+      "path": "public/assets/manufacturing-640.webp",
+      "bytes": 11612,
+      "sha256": "a3283c70bd53c7d56856367d1d55cf9ca91350100154d3f63c91ab1b357d19f7"
+    },
+    {
+      "path": "public/assets/manufacturing.webp",
+      "bytes": 26952,
+      "sha256": "202d7bcf1e7b82beaa92a8b29e3fbb69b3b6290a6a2d490de63aa504366d73f8"
+    },
+    {
+      "path": "public/assets/materials-640.webp",
+      "bytes": 18732,
+      "sha256": "948c0bef6b247776add5aadd63e48a6f94c3c8b4197da2c957f45f9da622cf55"
+    },
+    {
+      "path": "public/assets/materials.webp",
+      "bytes": 89710,
+      "sha256": "633377dc57aee72237094ec7fef23d5e08c8caa5ecd539e5d9764a7576d1f005"
+    },
+    {
+      "path": "public/assets/packaging-640.webp",
+      "bytes": 15032,
+      "sha256": "8b72fbf6fbc46036780ecf050aa58f16fa1349fee2bc1135e52130a22827e5bc"
+    },
+    {
+      "path": "public/assets/packaging.webp",
+      "bytes": 22952,
+      "sha256": "f889da75bbce6ea1c2717d6e477d55a835e88a93c8d2f3f3a640e90ae3769b7e"
+    },
+    {
+      "path": "public/assets/sealants-640.webp",
+      "bytes": 22144,
+      "sha256": "19092b07086a0ba9eb293e1b2b101f85e4c4b513c90b2a1153d92ce6bc7ac528"
+    },
+    {
+      "path": "public/assets/sealants.webp",
+      "bytes": 29952,
+      "sha256": "457502c678dbddc54c4c2f2404d6088bb951c2aba26edadcda68c267197b7311"
+    },
+    {
+      "path": "public/assets/site.css",
+      "bytes": 31550,
+      "sha256": "5db2f25afee7bee6efa1cef80eefd2a24916a45fc2569d382ef56db6298ee905"
+    },
+    {
+      "path": "public/assets/site.js",
+      "bytes": 3202,
+      "sha256": "5f3b1dbd113c211c65ffa9e50f0388964a3666968c5dbceb993252f5cba60ff8"
+    },
+    {
+      "path": "public/assets/technical-640.webp",
+      "bytes": 5088,
+      "sha256": "e21f3fd18536bcfd16e2e6eee1cf4bcea3fdb13d10930e08419bb8edf7e33c42"
+    },
+    {
+      "path": "public/assets/technical.webp",
+      "bytes": 10242,
+      "sha256": "760458665768ab33904c6f75997730c22a5be7081e97920f98c24e1b9c0425d5"
+    },
+    {
+      "path": "public/assets/wood-640.webp",
+      "bytes": 15666,
+      "sha256": "03841b215662a992fceffb7ae3b9acb967541b43e8027793424a16838764f481"
+    },
+    {
+      "path": "public/assets/wood.webp",
+      "bytes": 20250,
+      "sha256": "0dbc7d78e7f6be23d7e946faec534fdddbe36b0b7ed0819c5f75e3bdf6f0e112"
+    },
+    {
+      "path": "scripts/check.mjs",
+      "bytes": 2526,
+      "sha256": "7973c33d4aa77c40bc2313aca8130130d6b5a31c5ceaa74e5b0932a6dfa7ab31"
+    },
+    {
+      "path": "scripts/serve.mjs",
+      "bytes": 1652,
+      "sha256": "caf581835d41b249ba0cf1fca1ea0a6e89d8dd0e5dafcaea18881b1809029b4f"
+    },
+    {
+      "path": "src/build.mjs",
+      "bytes": 31889,
+      "sha256": "cb52b889e45562657fdf6b056150e82ca89c874cd1b30cb4319cc4ec26fe3589"
+    }
+  ]
+}

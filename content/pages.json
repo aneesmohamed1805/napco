@@ -1,0 +1,354 @@
+[
+  {
+    "path": "/products/adhesives/",
+    "title": "Adhesives",
+    "eyebrow": "Our solutions",
+    "headline": "THE RIGHT BOND\nSTARTS WITH THE APPLICATION.",
+    "summary": "Adhesive solutions for construction, manufacturing and industrial assembly.",
+    "image": "adhesives",
+    "heading": "Bonding across different materials.",
+    "body": [
+      "NAPCO develops adhesives for industrial, manufacturing and construction applications. Its published range includes hot-melt, instant and pressure-sensitive adhesives, thread-lockers and structural adhesives.",
+      "Acrylic, epoxy and urethane technologies are among the chemistries described in NAPCO’s portfolio. Selection should be tied to the materials, assembly process and requirements of the finished application."
+    ],
+    "topics": [
+      {
+        "title": "Bonding & assembly",
+        "description": "Explore joining requirements for metal, composites and other substrates."
+      },
+      {
+        "title": "Different chemistries",
+        "description": "Discuss the technology and product information relevant to your application."
+      },
+      {
+        "title": "Technical support",
+        "description": "Request current product data before specifying or applying a formulation."
+      }
+    ],
+    "group": "product",
+    "source": "https://www.napcoadhesives.com/products/adhesives/"
+  },
+  {
+    "path": "/products/sealants/",
+    "title": "Sealants",
+    "eyebrow": "Our solutions",
+    "headline": "FOCUS ON\nTHE JOINT.",
+    "summary": "Sealing solutions for construction and industrial applications.",
+    "image": "sealants",
+    "heading": "Built around the application.",
+    "body": [
+      "NAPCO develops sealants for construction, automotive and transport, manufacturing, maintenance and repair. Its technical support approach starts with the customer’s requirements.",
+      "The published portfolio is developed through consultation with customers and people involved in application. Discuss the joint, materials and operating conditions with NAPCO before choosing a product."
+    ],
+    "topics": [
+      {
+        "title": "Construction",
+        "description": "Consider the joint and the materials it connects."
+      },
+      {
+        "title": "Industrial applications",
+        "description": "Discuss the assembly, maintenance or repair requirement."
+      },
+      {
+        "title": "Application support",
+        "description": "Confirm suitability against the current product documentation."
+      }
+    ],
+    "group": "product",
+    "source": "https://www.napcoadhesives.com/products/sealants/"
+  },
+  {
+    "path": "/products/coatings/",
+    "title": "Coatings",
+    "eyebrow": "Our solutions",
+    "headline": "CONSIDER\nTHE SURFACE.",
+    "summary": "Coating solutions for construction, manufacturing, restoration and rebuilding.",
+    "image": "coatings",
+    "heading": "Protection begins with the surface.",
+    "body": [
+      "NAPCO’s coating portfolio covers construction and industrial applications. Its published examples include building panels, roofs, concrete floors and walls, HVAC, furniture and commercial appliances.",
+      "Research and development considers production requirements alongside the needs of the finished surface. Discuss the substrate, intended use and relevant product data with the technical team."
+    ],
+    "topics": [
+      {
+        "title": "Construction surfaces",
+        "description": "Explore coatings for relevant building and surface applications."
+      },
+      {
+        "title": "Industrial environments",
+        "description": "Discuss the equipment, substrate and end-use requirement."
+      },
+      {
+        "title": "Restoration & rebuilding",
+        "description": "Identify the surface and scope before selecting a coating."
+      }
+    ],
+    "group": "product",
+    "source": "https://www.napcoadhesives.com/products/coatings/"
+  },
+  {
+    "path": "/solutions/construction-solutions/",
+    "title": "Construction solutions",
+    "eyebrow": "Construction",
+    "headline": "BIG IDEAS.\nSMALL DETAILS.",
+    "summary": "Adhesives, sealants and coatings across building and renovation.",
+    "image": "architecture",
+    "heading": "Build. Protect. Finish. Repair.",
+    "body": [
+      "NAPCO’s construction offer is organised around four stages: Build, Protect, Finish and Repair. Its published applications include preparing, bonding, sealing and protecting building materials.",
+      "The current construction overview describes moisture-related applications, including foundations and basement damp-proofing. Use current technical information to establish the appropriate product and system for the project."
+    ],
+    "topics": [
+      {
+        "title": "Build",
+        "description": "Start with the materials and the construction detail."
+      },
+      {
+        "title": "Protect",
+        "description": "Consider the exposure and the role of the specified system."
+      },
+      {
+        "title": "Finish",
+        "description": "Connect the selected product with the intended surface."
+      },
+      {
+        "title": "Repair",
+        "description": "Define the existing condition and scope of work."
+      }
+    ],
+    "group": "construction",
+    "source": "https://www.napcoadhesives.com/solutions/construction-solutions/"
+  },
+  {
+    "path": "/solutions/industrial-solutions/automotive/",
+    "title": "Automotive",
+    "eyebrow": "Industrial solutions",
+    "headline": "BUILT FOR\nCOMPLEX ASSEMBLIES.",
+    "summary": "Adhesives, sealants and coatings for automotive and transport applications.",
+    "image": "automotive",
+    "heading": "Look inside the assembly.",
+    "body": [
+      "NAPCO’s automotive offering addresses components and processes across vehicle manufacture, assembly and repair. Its published overview includes interiors, exteriors, electronics, body assembly, trim and aftersales applications.",
+      "The relevant solution depends on the component and the production requirement. Bring the materials, application process and end-use conditions into the technical conversation."
+    ],
+    "topics": [
+      {
+        "title": "Interior & exterior components",
+        "description": "Consider the materials and function of the component."
+      },
+      {
+        "title": "Assembly processes",
+        "description": "Discuss the bonding or sealing step within production."
+      },
+      {
+        "title": "Application requirements",
+        "description": "Confirm the exact formulation and its technical scope."
+      }
+    ],
+    "group": "industry",
+    "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/automotive/"
+  },
+  {
+    "path": "/solutions/industrial-solutions/electronics/",
+    "title": "Electronics",
+    "eyebrow": "Industrial solutions",
+    "headline": "TINY CONNECTIONS.\nBIG POSSIBILITIES.",
+    "summary": "Material technologies for electronics assembly and protection.",
+    "image": "electronics",
+    "heading": "Precision starts with understanding.",
+    "body": [
+      "NAPCO’s electronics overview describes materials used for structural integrity, protection, electrical interconnection and heat transfer. It identifies epoxy and polyurethane encapsulant chemistries among its offering.",
+      "Application requirements differ between components and devices. Discuss the assembly and the relevant chemical, mechanical and electrical conditions before selecting a formulation."
+    ],
+    "topics": [
+      {
+        "title": "Component protection",
+        "description": "Explore protection requirements for the device and its environment."
+      },
+      {
+        "title": "Assembly requirements",
+        "description": "Consider the interface and the role of the selected material."
+      },
+      {
+        "title": "Technical guidance",
+        "description": "Request product-specific data for the intended electronics application."
+      }
+    ],
+    "group": "industry",
+    "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/electronics/"
+  },
+  {
+    "path": "/solutions/industrial-solutions/packaging-paper/",
+    "title": "Packaging & paper",
+    "eyebrow": "Industrial solutions",
+    "headline": "THE FINISH BEGINS\nWITH THE BOND.",
+    "summary": "Adhesive solutions for packaging, paper converting and lamination.",
+    "image": "packaging",
+    "heading": "Consider the pack and the process.",
+    "body": [
+      "NAPCO’s packaging and paper portfolio covers applications including folding cartons, paper converting and lamination. The published overview considers packaging surfaces alongside production requirements.",
+      "Start with the materials being joined and how the pack will be made and used. Any application with additional regulatory requirements needs product-specific confirmation."
+    ],
+    "topics": [
+      {
+        "title": "Cartons & packaging",
+        "description": "Discuss the surfaces and the converting process."
+      },
+      {
+        "title": "Paper converting",
+        "description": "Consider the material and the intended end use."
+      },
+      {
+        "title": "Lamination",
+        "description": "Define the layers and the production requirements."
+      }
+    ],
+    "group": "industry",
+    "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/packaging-paper/"
+  },
+  {
+    "path": "/solutions/industrial-solutions/engineered-wood/",
+    "title": "Engineered wood",
+    "eyebrow": "Industrial solutions",
+    "headline": "UNDERSTAND THE WOOD.\nCONSIDER THE BOND.",
+    "summary": "Adhesives developed around engineered-wood applications.",
+    "image": "wood",
+    "heading": "Start with the end use.",
+    "body": [
+      "NAPCO’s engineered-wood approach emphasises working with customers and sharing application knowledge. Its overview discusses factory production and the varied uses of timber and engineered wood in buildings.",
+      "The finished component, materials and production method are the starting point for the application conversation. Refer to the relevant product data and project requirements before specifying a solution."
+    ],
+    "topics": [
+      {
+        "title": "Material requirements",
+        "description": "Describe the wood-based material and adjoining substrates."
+      },
+      {
+        "title": "Production context",
+        "description": "Consider how the component is manufactured and handled."
+      },
+      {
+        "title": "End-use application",
+        "description": "Discuss the intended building or finished-product requirement."
+      }
+    ],
+    "group": "industry",
+    "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/engineered-wood/"
+  },
+  {
+    "path": "/solutions/industrial-solutions/furniture-building-components/",
+    "title": "Furniture & building components",
+    "eyebrow": "Industrial solutions",
+    "headline": "CRAFT MEETS\nCHEMISTRY.",
+    "summary": "Bonding solutions for furniture and building components.",
+    "image": "craft",
+    "heading": "From materials to the finished component.",
+    "body": [
+      "NAPCO’s published furniture and building-components applications include edge banding, profile wrapping, flat lamination, wood assembly, edge sealing, sandwich-panel lamination and foam bonding.",
+      "Wood, MDF and other materials each bring different requirements. Start with the component and manufacturing process, then review the appropriate adhesive and its current documentation."
+    ],
+    "topics": [
+      {
+        "title": "Lamination & wrapping",
+        "description": "Discuss flat lamination and profile-wrapping requirements."
+      },
+      {
+        "title": "Wood assembly",
+        "description": "Consider the surfaces, joint and production process."
+      },
+      {
+        "title": "Furniture components",
+        "description": "Explore edge banding, foam bonding and related applications."
+      }
+    ],
+    "group": "industry",
+    "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/furniture-building-components/"
+  },
+  {
+    "path": "/solutions/industrial-solutions/manufacturing/",
+    "title": "Manufacturing",
+    "eyebrow": "Industrial solutions",
+    "headline": "SOLUTIONS FOR\nHOW YOU MAKE.",
+    "summary": "Bonding, sealing and coating applications across industrial manufacturing.",
+    "image": "manufacturing",
+    "heading": "Connect materials with the process.",
+    "body": [
+      "NAPCO’s manufacturing portfolio includes structural and flexible bonding, instant adhesives, thread-lockers, gasketing sealants and coatings. Its overview also covers metalworking and cable-related applications.",
+      "The role of a material needs to be considered within the production process and the finished assembly. Discuss the substrates, operating conditions and product-specific requirements with NAPCO."
+    ],
+    "topics": [
+      {
+        "title": "Bonding & assembly",
+        "description": "Explore structural and flexible joining requirements."
+      },
+      {
+        "title": "Sealing applications",
+        "description": "Discuss gasketing and other relevant sealing needs."
+      },
+      {
+        "title": "Production context",
+        "description": "Connect selection with application and handling requirements."
+      }
+    ],
+    "group": "industry",
+    "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/manufacturing/"
+  },
+  {
+    "path": "/corporate/napco-world/",
+    "title": "About NAPCO",
+    "eyebrow": "NAPCO World",
+    "headline": "WE MAKE\nIT STICK!",
+    "summary": "Adhesives, sealants and coatings for construction and industry.",
+    "image": "materials",
+    "heading": "Consistent quality through innovation.",
+    "body": [
+      "NAPCO combines adhesives, sealants and coatings with technical and research-and-development expertise. Its published applications span construction and industrial markets.",
+      "The company’s approach centres on understanding customer requirements and developing application-led solutions. The portfolio reaches across sectors including automotive, electronics, packaging, furniture and manufacturing."
+    ],
+    "topics": [
+      {
+        "title": "Application understanding",
+        "description": "Start with the job the material needs to do."
+      },
+      {
+        "title": "Technical thinking",
+        "description": "Connect materials and formulation with the application."
+      },
+      {
+        "title": "Working together",
+        "description": "Build the conversation around customer requirements."
+      }
+    ],
+    "group": "company",
+    "source": "https://www.napcoadhesives.com/corporate/napco-world/"
+  },
+  {
+    "path": "/innovation/innovation-strategy/",
+    "title": "Innovation strategy",
+    "eyebrow": "Innovation",
+    "headline": "TECHNICAL THINKING.\nPRACTICAL RELEVANCE.",
+    "summary": "A materials-focused approach to customer application challenges.",
+    "image": "technical",
+    "heading": "Innovation starts with a real requirement.",
+    "body": [
+      "NAPCO describes its innovation strategy as centred on material science. Its research and development work addresses functional materials, polymer building blocks and adhesive-bonding processes.",
+      "The published strategy also identifies reverse engineering as part of its technical approach. Customer requirements help frame the development of adhesives, coatings and sealants for the markets NAPCO serves."
+    ],
+    "topics": [
+      {
+        "title": "Materials",
+        "description": "Explore the materials and interfaces in the application."
+      },
+      {
+        "title": "Development",
+        "description": "Connect formulation work with a defined requirement."
+      },
+      {
+        "title": "Application questions",
+        "description": "Bring the process and end use into the discussion."
+      }
+    ],
+    "group": "company",
+    "source": "https://www.napcoadhesives.com/innovation/innovation-strategy/"
+  }
+]

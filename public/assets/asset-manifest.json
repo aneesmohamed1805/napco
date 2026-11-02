@@ -1,0 +1,212 @@
+{
+  "logoCrop": [
+    190,
+    240,
+    644,
+    348
+  ],
+  "originals": [
+    {
+      "file": "Napco-Logo.png",
+      "sha256": "ea6df81902504d9b65d6b44dff9c5d4e4048f414ac8551cda657be3cd22c1605"
+    },
+    {
+      "file": "napco-icon.png",
+      "sha256": "984935ebdd781875a343f889d8bd568282f37fe15a5404ac11088fd3f2da4499"
+    }
+  ],
+  "images": [
+    {
+      "asset": "/assets/architecture.webp",
+      "source": "NAPCO_Combined_Homepage_01.png",
+      "crop": [
+        560,
+        94,
+        1440,
+        605
+      ],
+      "size": [
+        880,
+        511
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/automotive.webp",
+      "source": "02_Exploded_Automotive.png",
+      "crop": [
+        0,
+        365,
+        1254,
+        1090
+      ],
+      "size": [
+        1254,
+        725
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/materials.webp",
+      "source": "03_Material_Junction.png",
+      "crop": [
+        0,
+        555,
+        1254,
+        1080
+      ],
+      "size": [
+        1254,
+        525
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/electronics.webp",
+      "source": "04_Electronics_Macro.png",
+      "crop": [
+        0,
+        175,
+        1254,
+        900
+      ],
+      "size": [
+        1254,
+        725
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/packaging.webp",
+      "source": "05_Packaging_Red.png",
+      "crop": [
+        600,
+        430,
+        1254,
+        1080
+      ],
+      "size": [
+        654,
+        650
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/craft.webp",
+      "source": "06_Craftsmanship.png",
+      "crop": [
+        0,
+        570,
+        1254,
+        1080
+      ],
+      "size": [
+        1254,
+        510
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/manufacturing.webp",
+      "source": "08_Consistency_Manufacturing.png",
+      "crop": [
+        735,
+        0,
+        1254,
+        1000
+      ],
+      "size": [
+        519,
+        1000
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/technical.webp",
+      "source": "NAPCO_Combined_Homepage_01.png",
+      "crop": [
+        470,
+        1305,
+        1440,
+        1600
+      ],
+      "size": [
+        970,
+        295
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/sealants.webp",
+      "source": "09_Technical_Thinking.png",
+      "crop": [
+        600,
+        460,
+        1254,
+        1070
+      ],
+      "size": [
+        654,
+        610
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/adhesives.webp",
+      "source": "06_Craftsmanship.png",
+      "crop": [
+        655,
+        280,
+        1254,
+        980
+      ],
+      "size": [
+        599,
+        700
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/coatings.webp",
+      "source": "NAPCO_Combined_Homepage_01.png",
+      "crop": [
+        1110,
+        822,
+        1375,
+        969
+      ],
+      "size": [
+        265,
+        147
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    },
+    {
+      "asset": "/assets/wood.webp",
+      "source": "03_Material_Junction.png",
+      "crop": [
+        900,
+        390,
+        1250,
+        700
+      ],
+      "size": [
+        350,
+        310
+      ],
+      "treatment": "Photographic crop; legacy generated red focus mark removed where present; original brand icon is an independent HTML image.",
+      "classification": "User-provided conceptual imagery, not a documented NAPCO facility or validated installation."
+    }
+  ]
+}

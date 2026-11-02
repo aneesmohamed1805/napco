@@ -1,0 +1,114 @@
+{
+  "builtAt": "2026-11-02T16:30:51.438Z",
+  "mode": "preview",
+  "routeCount": 21,
+  "routes": [
+    {
+      "url": "/",
+      "title": "Home",
+      "description": "NAPCO adhesives, sealants and coatings for construction and industry. Explore applications, technical resources and insights."
+    },
+    {
+      "url": "/products/adhesives/",
+      "title": "Adhesives",
+      "description": "Adhesive solutions for construction, manufacturing and industrial assembly."
+    },
+    {
+      "url": "/products/sealants/",
+      "title": "Sealants",
+      "description": "Sealing solutions for construction and industrial applications."
+    },
+    {
+      "url": "/products/coatings/",
+      "title": "Coatings",
+      "description": "Coating solutions for construction, manufacturing, restoration and rebuilding."
+    },
+    {
+      "url": "/solutions/construction-solutions/",
+      "title": "Construction solutions",
+      "description": "Adhesives, sealants and coatings across building and renovation."
+    },
+    {
+      "url": "/solutions/industrial-solutions/automotive/",
+      "title": "Automotive",
+      "description": "Adhesives, sealants and coatings for automotive and transport applications."
+    },
+    {
+      "url": "/solutions/industrial-solutions/electronics/",
+      "title": "Electronics",
+      "description": "Material technologies for electronics assembly and protection."
+    },
+    {
+      "url": "/solutions/industrial-solutions/packaging-paper/",
+      "title": "Packaging & paper",
+      "description": "Adhesive solutions for packaging, paper converting and lamination."
+    },
+    {
+      "url": "/solutions/industrial-solutions/engineered-wood/",
+      "title": "Engineered wood",
+      "description": "Adhesives developed around engineered-wood applications."
+    },
+    {
+      "url": "/solutions/industrial-solutions/furniture-building-components/",
+      "title": "Furniture & building components",
+      "description": "Bonding solutions for furniture and building components."
+    },
+    {
+      "url": "/solutions/industrial-solutions/manufacturing/",
+      "title": "Manufacturing",
+      "description": "Bonding, sealing and coating applications across industrial manufacturing."
+    },
+    {
+      "url": "/corporate/napco-world/",
+      "title": "About NAPCO",
+      "description": "Adhesives, sealants and coatings for construction and industry."
+    },
+    {
+      "url": "/innovation/innovation-strategy/",
+      "title": "Innovation strategy",
+      "description": "A materials-focused approach to customer application challenges."
+    },
+    {
+      "url": "/products/",
+      "title": "Adhesives, sealants & coatings",
+      "description": "Explore NAPCO’s three solution families: adhesives, sealants and coatings."
+    },
+    {
+      "url": "/solutions/",
+      "title": "Solutions",
+      "description": "NAPCO construction and industrial solutions, organised around applications."
+    },
+    {
+      "url": "/solutions/industrial-solutions/",
+      "title": "Industrial solutions",
+      "description": "Explore NAPCO applications in automotive, electronics, packaging, furniture, engineered wood and manufacturing."
+    },
+    {
+      "url": "/resource-hub/",
+      "title": "Technical resources",
+      "description": "Find NAPCO product information, application guidance and routes to technical support."
+    },
+    {
+      "url": "/insights/",
+      "title": "Insights",
+      "description": "NAPCO articles, technical perspectives and application knowledge."
+    },
+    {
+      "url": "/contact/",
+      "title": "Contact",
+      "description": "Contact NAPCO about construction and industrial adhesive, sealant and coating applications."
+    },
+    {
+      "url": "/request-quote/",
+      "title": "Request a quote",
+      "description": "Discuss your materials and application requirements with NAPCO."
+    },
+    {
+      "url": "/search/",
+      "title": "Search",
+      "description": "Search NAPCO solutions, industries, resources and insights."
+    }
+  ],
+  "articleCount": 1,
+  "sourceSite": "https://www.napcoadhesives.com"
+}

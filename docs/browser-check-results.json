@@ -1,0 +1,621 @@
+{
+  "checkedAt": "2026-11-02T14:35:49.236817+00:00",
+  "method": "Chromium offline rendering of generated HTML, same CSS/JS and embedded local images. Not a hosted Cloudflare deployment.",
+  "viewports": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "pages": [
+    {
+      "route": "/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/products/adhesives/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/products/sealants/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/products/coatings/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/solutions/construction-solutions/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/solutions/industrial-solutions/automotive/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/solutions/industrial-solutions/electronics/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/solutions/industrial-solutions/packaging-paper/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/solutions/industrial-solutions/engineered-wood/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/solutions/industrial-solutions/furniture-building-components/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/solutions/industrial-solutions/manufacturing/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/corporate/napco-world/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/innovation/innovation-strategy/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/products/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/solutions/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/solutions/industrial-solutions/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/resource-hub/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/insights/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/contact/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/request-quote/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    },
+    {
+      "route": "/search/",
+      "h1Count": 1,
+      "brokenImages": [],
+      "widthChecks": [
+        {
+          "width": 320,
+          "scrollWidth": 320,
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "scrollWidth": 390,
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768,
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440,
+          "overflow": false
+        }
+      ],
+      "javascriptErrors": []
+    }
+  ],
+  "interactionTests": {
+    "mobileMenuOpens": true,
+    "escapeClosesMenu": true,
+    "desktopDropdownOpens": true,
+    "escapeClosesDropdown": true,
+    "contactRequiredFields": true,
+    "contactValidInputAccepted": true,
+    "contactBuildsMailtoDraft": true,
+    "contactDoesNotClaimSent": true,
+    "searchFindsPackaging": true,
+    "searchEmptyState": true,
+    "searchReset": true
+  },
+  "limitations": [
+    "No hosted headers/CSP test",
+    "No external-link network sweep",
+    "No email sent or backend delivery test; outbound mailto navigation was stubbed during the form handler check",
+    "No Lighthouse/Core Web Vitals score",
+    "No formal WCAG conformance certification"
+  ],
+  "passed": true
+}
