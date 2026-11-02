@@ -1,0 +1,26 @@
+name: Validate static review site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check complete source and build
+        shell: bash
+        run: |
+          if [ ! -f package.json ]; then
+            echo "Source upload is in progress; nothing to build yet."
+            exit 0
+          fi
+          node --version
+          npm test
