@@ -13,14 +13,19 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    env:
+      SITE_MODE: preview
     steps:
       - uses: actions/checkout@v4
-      - name: Check complete source and build
-        shell: bash
-        run: |
-          if [ ! -f package.json ]; then
-            echo "Source upload is in progress; nothing to build yet."
-            exit 0
-          fi
-          node --version
-          npm test
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build and check the complete website
+        run: npm test
+      - name: Retain static review build
+        uses: actions/upload-artifact@v4
+        with:
+          name: napco-static-review-dist
+          path: dist/
+          retention-days: 7
+          if-no-files-found: error
