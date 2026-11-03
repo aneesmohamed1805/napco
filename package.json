@@ -1,13 +1,15 @@
 {
   "name": "napco-static-site",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "NAPCO approved-design static review build. No CMS or runtime dependencies.",
   "type": "module",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
-    "build": "node src/build.mjs",
+    "build": "node src/build.mjs && node src/enhance-home.mjs",
     "preview": "node scripts/serve.mjs",
-    "test": "node src/build.mjs && node scripts/check.mjs"
+    "test": "npm run build && node scripts/check.mjs && node scripts/check-home.mjs"
   }
 }
