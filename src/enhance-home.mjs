@@ -4,6 +4,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
+import { gunzipSync } from 'node:zlib';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const out = path.join(root, 'dist');
@@ -53,7 +54,8 @@ await fs.writeFile(path.join(out, 'index.html'), home);
 const favicon = JSON.parse(await fs.readFile(path.join(root, 'content/favicon.json'), 'utf8'));
 for (const asset of favicon.assets) {
   if (!/^assets\/brand\/[a-z0-9-]+\.png$/.test(asset.path)) throw new Error('Invalid favicon destination');
-  const bytes = Buffer.from(asset.base64, 'base64');
+  const encoded = Buffer.from(asset.base64, 'base64');
+  const bytes = asset.encoding === 'gzip' ? gunzipSync(encoded) : encoded;
   if (createHash('sha256').update(bytes).digest('hex') !== asset.sha256) throw new Error(`Favicon checksum mismatch: ${asset.path}`);
   await fs.writeFile(path.join(out, asset.path), bytes);
 }
