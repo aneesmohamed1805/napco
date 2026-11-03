@@ -1,5 +1,5 @@
 'use strict';
-// Subtle, scroll-linked translation of the original focus artwork only.
+// Visible but bounded, scroll-linked translation of the original focus artwork only.
 // The independent translate property preserves the existing centring transform.
 (() => {
   if (!window.CSS?.supports('translate', '0 1px')) return;
@@ -43,7 +43,7 @@
   // Scroll handlers only schedule a frame. Read all geometry before any writes.
   function measure() {
     const height = window.innerHeight || document.documentElement.clientHeight;
-    const amplitude = window.innerWidth <= 700 ? 5 : 10;
+    const amplitude = window.innerWidth <= 700 ? 18 : 32;
     const rects = new Map(scenes.map(scene => [scene, scene.getBoundingClientRect()]));
     for (const entry of entries) {
       const rect = rects.get(entry.scene);
@@ -57,7 +57,8 @@
       const baseBottom = icon.bottom - entry.value;
       // Never push a bracket outside its image, even at a narrow crop.
       const limit = Math.max(0, Math.min(amplitude, baseTop - rect.top - 4, rect.bottom - baseBottom - 4));
-      const progress = clamp((height / 2 - (rect.top + rect.height / 2)) / ((height + rect.height) / 2), -1, 1);
+      // Reach a visible offset during normal scrolling, not only at viewport edges.
+      const progress = clamp(1.5 * (height / 2 - (rect.top + rect.height / 2)) / ((height + rect.height) / 2), -1, 1);
       entry.limit = limit;
       entry.target = progress * limit;
     }
