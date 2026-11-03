@@ -9,9 +9,9 @@
 - Image specification: 1920 × 1080 WebP, encoder quality 70. Generated conceptual material junction; no text, logo, icons or brackets. Red interfaces are conceptual brand accents, not a product-colour claim.
 - Editorial scope: company, generic families and industries; no SKUs or WooCommerce product information.
 - Authority: user instructed Articles project to publish to this static GitHub site on 3 November 2026. Preview safeguards and production launch remain separate.
-- Status: eligible for review-site build; hosted publication must be verified after commit.
-- LinkedIn: pending; do not promote a review-only URL as the final public article link.
-- Cadence: no new schedule or deploy trigger created by this entry. This entry does not backdate missed publications.
+- Status: review-site publication verified. Cloudflare version 3a97195b deployed commit e53afad411c4faddf89d0a20d0887d4c092fb218 successfully; full article and cover served at https://napco.aneesmohamed1805.workers.dev/insights/napco-adhesive-sealant-coating-expertise/. This is not a production-domain launch.
+- LinkedIn: full title/body/headings saved as draft https://www.linkedin.com/article/edit/7523272811436638208/?author=urn%3Ali%3Afs_normalized_company%3A145393515 . Cover upload did not populate; publication has not been attempted. Browser upload guidance requires the user to enable Allow access to file URLs for the ChatGPT Chrome extension. Reuse this draft after permission is enabled; do not create a duplicate. Omit review-only source URL. User explicitly authorises syndicating the content on this Page while site remains review-only.
+- Website cadence: unchanged; no website deploy schedule created. LinkedIn cross-publication hourly condition watch created 3 November 2026 (task 6ae9839540988191b92a3df877cc105d), checks deployed/date-eligible records and duplicate state. No backdating or historical backfill.
 
 ## Evidence reviewed 3 November 2026
 
