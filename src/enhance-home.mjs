@@ -79,7 +79,7 @@ async function addIcons(dir) {
     if (entry.isDirectory()) await addIcons(file);
     else if (entry.name.endsWith('.html')) {
       const html = await fs.readFile(file, 'utf8');
-      await fs.writeFile(file, html.replace('</head>', `${faviconTags}</head>`));
+      await fs.writeFile(file, html.replace('</head>', `${faviconTags}<script src="/assets/focus-motion.js?v=20261103-1" defer></script></head>`));
       htmlCount++;
     }
   }
