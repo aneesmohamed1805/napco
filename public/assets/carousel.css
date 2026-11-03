@@ -1,0 +1,45 @@
+/* Homepage-only slider. Existing section layouts and brand artwork remain unchanged. */
+.home-carousel{position:relative;isolation:isolate;background:#f0f1f2}
+.carousel-track{display:grid;grid-template-columns:minmax(0,1fr)}
+.home-carousel .hero-slide{grid-area:1/1;min-width:0;visibility:hidden;opacity:0;pointer-events:none;transition:opacity .55s ease,visibility 0s .55s;z-index:0}
+.home-carousel .hero-slide.is-active{visibility:visible;opacity:1;pointer-events:auto;z-index:1;transition:opacity .55s ease,visibility 0s}
+.home-carousel .hero-content{min-height:600px;padding-top:52px;padding-bottom:92px}
+.home-carousel .hero-title{font-size:clamp(46px,4.8vw,71px);line-height:.98;letter-spacing:-.055em;max-width:530px}
+.home-carousel .hero-content>p:not(.eyebrow):not(.hero-signature){max-width:420px}
+.home-carousel .hero-signature{margin-top:24px}
+.home-carousel .hero--industries{background:#252527;color:white}
+.home-carousel .hero--industries .hero-visual{left:35%}
+.home-carousel .hero--industries .hero-image{object-position:63% 50%}
+.home-carousel .hero--industries .hero-fade{background:linear-gradient(90deg,#252527 0%,#252527ae 15%,#25252700 44%)}
+.home-carousel .hero--industries .hero-content>p:not(.eyebrow),.home-carousel .hero--innovation .hero-content>p:not(.eyebrow){color:#f0f0f0}
+.home-carousel .hero--industries .hero-signature,.home-carousel .hero--innovation .hero-signature{color:white}
+.home-carousel .hero--industries .button--outline,.home-carousel .hero--innovation .button--outline{border-color:#ededed;color:white;background:transparent}
+.home-carousel .hero--industries .button--outline:hover,.home-carousel .hero--innovation .button--outline:hover{background:white;color:#252527}
+.home-carousel .hero--innovation{background:#1e1f21;color:white}
+.home-carousel .hero--innovation .hero-visual{left:33%}
+.home-carousel .hero--innovation .hero-image{object-position:54% 50%}
+.home-carousel .hero--innovation .hero-fade{background:linear-gradient(90deg,#1e1f21 0%,#1e1f21bb 17%,#1e1f2100 52%)}
+.home-carousel .focus-industries{left:60%;top:34%;width:110px}
+.home-carousel .focus-innovation{left:49%;top:64%;width:110px}
+.carousel-controls{position:absolute;bottom:17px;left:50%;transform:translateX(-50%);z-index:4;display:flex;align-items:center;gap:10px;pointer-events:none}
+.carousel-controls[hidden]{display:none!important}
+.carousel-controls button{font:inherit;cursor:pointer;border:1px solid #c9c9cc;border-radius:2px;min-height:40px;color:#383839;background:#fff;pointer-events:auto;transition:background .18s,color .18s}
+.carousel-controls button:hover{background:#f0f0f1}
+.carousel-controls button:focus-visible{outline:3px solid #383839;outline-offset:3px;box-shadow:0 0 0 6px white}
+.carousel-rotation{order:2;margin-left:auto;display:flex;align-items:center;justify-content:center;gap:9px;padding:9px 14px;min-width:84px;font-size:12px!important}
+.carousel-selectors{order:0;display:flex;gap:7px}
+.carousel-selectors button{display:flex;align-items:center;gap:8px;padding:8px 12px;font-size:11px;line-height:1.2}
+.carousel-selectors button[aria-current="true"]{color:white;background:#d4202d;border-color:#d4202d}
+.carousel-number{font-size:10px;letter-spacing:.06em;font-weight:700}
+.carousel-arrows{order:1;display:flex;gap:7px}
+.carousel-arrows button{display:flex;align-items:center;justify-content:center;width:40px;padding:9px}
+.carousel-arrows .icon{width:18px;height:18px}
+.carousel-arrows [data-carousel-prev] .icon{transform:rotate(180deg)}
+.visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(min-width:701px) and (max-width:1050px){.home-carousel .hero-title{font-size:59px}.home-carousel .hero-content{min-height:590px}.home-carousel .hero-content>p:not(.eyebrow):not(.hero-signature){max-width:355px}.home-carousel .hero--industries .hero-visual,.home-carousel .hero--innovation .hero-visual{left:35%}.home-carousel .hero--industries .hero-fade{background:linear-gradient(90deg,#252527 0%,#252527d9 23%,#25252700 63%)}.home-carousel .hero--innovation .hero-fade{background:linear-gradient(90deg,#1e1f21 0%,#1e1f21cc 23%,#1e1f2100 63%)}}
+@media(max-width:700px){.home-carousel .hero-slide{display:flex;flex-direction:column}.home-carousel .hero-content{min-height:475px;padding-top:34px;padding-bottom:30px;width:calc(100% - 2 * var(--gutter));flex:1}.home-carousel .hero-title{font-size:clamp(44px,11.4vw,64px);line-height:.98;max-width:100%}.home-carousel .hero h1{font-size:clamp(46px,12vw,68px)}.home-carousel .hero .eyebrow{margin-bottom:20px}.home-carousel .hero-content>p:not(.eyebrow):not(.hero-signature){font-size:16px;max-width:100%;margin-top:20px;margin-bottom:24px}.home-carousel .hero-signature{font-size:9px;margin-top:22px}.home-carousel .hero .button-row{display:flex;gap:8px;flex-wrap:wrap}.home-carousel .hero .button{padding:12px;gap:8px;font-size:11px;min-height:46px}.home-carousel .hero-visual,.home-carousel .hero--industries .hero-visual,.home-carousel .hero--innovation .hero-visual{left:auto;height:280px;min-height:280px;flex-shrink:0}.home-carousel .hero--industries .hero-image{object-position:63% 50%}.home-carousel .hero--innovation .hero-image{object-position:54% 50%}.home-carousel .focus-industries{left:60%;top:34%;width:83px}.home-carousel .focus-innovation{left:49%;top:64%;width:83px}.carousel-controls{bottom:13px;gap:7px;flex-wrap:nowrap;width:calc(100% - 28px)}.carousel-selectors{gap:5px}.carousel-selectors button{padding:9px;min-width:38px}.carousel-label{display:none}.carousel-arrows{gap:5px}.carousel-rotation{padding:9px 10px;min-width:75px}.carousel-arrows button{width:38px}}
+@media(max-width:365px){.home-carousel .hero-content{min-height:520px}.home-carousel .hero .button-row{display:grid;grid-template-columns:1fr}.home-carousel .hero .button{justify-content:space-between}.home-carousel .hero-title{font-size:42px}.carousel-controls{gap:5px}.carousel-arrows button{width:34px}.carousel-selectors button{min-width:34px;padding:8px}.carousel-rotation{min-width:69px;padding:8px}}
+@media(prefers-reduced-motion:reduce){.home-carousel .hero-slide,.carousel-controls button{transition:none}}
+@media print{.home-carousel .hero-slide{display:none!important}.home-carousel #hero-applications{display:block!important;visibility:visible!important;opacity:1!important}.carousel-controls{display:none!important}}
+
+.home-carousel .hero-visual{touch-action:pan-y pinch-zoom}
