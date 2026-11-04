@@ -35,3 +35,13 @@
   padding-left:0!important;
   padding-right:0!important;
 }
+
+
+/* Global inner-page content grid lock — match approved archive margins */
+body:not(.home) main .container{
+  width:min(calc(100% - (2 * var(--gutter))),var(--content))!important;
+  margin-left:auto!important;
+  margin-right:auto!important;
+  padding-left:0!important;
+  padding-right:0!important;
+}
