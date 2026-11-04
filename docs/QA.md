@@ -28,10 +28,3 @@ Additional recorded checks:
 - `http-check-results.json` — local server statuses.
 
 Repeat hosted QA after connecting the review repository to Cloudflare Pages and before public launch. Default noindex settings are not access control.
-
-## Full-site parity validation — 4 November 2026
-
-- GitHub Actions validation passed on commit `f81c26416bfb6e805deeaf634bbb302329b5120b` after the shared page-system and CSS updates.
-- The preceding structural commit `5f900b70d82050ce8521353a1c717aaffd2ea8fd` also passed validation.
-- Final review scope covers the existing 21-route static build plus the 404 document, shared navigation/footer, responsive focus-device behaviour, metadata/noindex safeguards, local link and image checks, homepage carousel checks and search/form JavaScript checks provided by the repository test suite.
-- The external Workers preview could not be independently fetched by the available web-reading tool during this pass, so the completed claim applies to the repository build and its automated validation. The live public NAPCO domain remains untouched.
