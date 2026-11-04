@@ -26,8 +26,12 @@
 @media(min-width:1051px){.context-card{height:290px;min-height:290px}.context-card>img{height:288px}}
 
 /* Approved inner-page grid alignment lock — 2026-11-04 */
-.subhero .container.subhero-grid,.page-intro>.container{
-  width:min(calc(100% - var(--gutter)*2),var(--content));
-  max-width:var(--content);
-  margin-inline:auto;
+.subhero>.container.subhero-grid,
+.page-intro>.container{
+  width:min(calc(100% - (2 * var(--gutter))),var(--content))!important;
+  max-width:var(--content)!important;
+  margin-left:auto!important;
+  margin-right:auto!important;
+  padding-left:0!important;
+  padding-right:0!important;
 }
