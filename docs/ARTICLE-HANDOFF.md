@@ -49,3 +49,32 @@ Until 30 November 2026 the agreed campaign emphasis remains approximately 70% po
 ## Content inventory at this handoff check
 
 On 3 November 2026, `content/articles/` contained `_template.json` and `wood-floor-adhesives-2019.json`. The latter links to the historical article **“The Science Behind Wood Floor Adhesives,”** originally dated 12 November 2019. No new November manuscripts were imported by this documentation update. The Articles project can add its approved work using the contract above. This inventory is a dated observation, not a permanent restriction on future articles.
+
+## WordPress staging sync — authorised 5 November 2026
+
+The user has also authorised the Articles project to keep **https://dev-new-napco.pantheonsite.io/** in sync with each published programme article, including all already published programme articles. This is an additional destination alongside this static review site and the existing native NAPCO LinkedIn article workflow. It does not replace either workflow or authorise production launch. The linked NAPCO Website conversation is https://chatgpt.com/g/g-p-6ae8800de9c88191a33d358f10b875b7-napco-website/c/6ae880a5-7b60-83ed-b8e3-74538bb10ce6 .
+
+### Shared ownership and coordination
+
+- Articles owns approved copy, metadata, approved image creation and content synchronisation. Website owns WordPress layout, templates, homepage/archive presentation, navigation and final permalink architecture.
+- Use this handoff and `docs/ARTICLE-REGISTER.md` as the durable coordination record between workflows. Read the latest versions before each write; preserve unrelated edits. No direct cross-conversation messaging mechanism is established by this document.
+- Content updates must preserve the Website project's theme work, draft theme, pages, shop, settings, original banners and focus movement. Do not activate or overwrite a theme, rewrite permalinks, change DNS or remove noindex.
+- Staging is a review destination. Never promote its URL as the production source or canonical URL on LinkedIn. The site currently reports `blog_public=0`, and the served article contains `noindex, nofollow`.
+
+### Sync contract
+
+1. Read the latest article JSON and register from `main`; sync only approved, published and date-eligible programme records. Exclude the historical 2019 wood-floor article. Existing editorial dates and November product restrictions continue.
+2. Query WordPress posts across all statuses by exact slug/title and consult recorded IDs before creating anything. Reuse existing matches and preserve their editorial content structure; unknown write outcomes require readback before retry. Do not duplicate a post or media attachment.
+3. Preserve exact title, full body and headings, excerpt, category, slug and publication instant. Use native editable Gutenberg blocks. Re-read the site's timezone and returned permalink; do not impose a new URL structure.
+4. Reuse the exact approved featured image: 1920 × 1080 WebP, quality 70, text/logo/icon/bracket free, with its descriptive alt text. Search existing media first. WPVibe's current `upload_media` supports a server-side URL download and featured assignment using `post_id`; use that for the committed static image when needed. A new bridge is unnecessary where this native route succeeds.
+5. Read back the post and featured attachment, then verify the served article and image. Record WordPress ID, returned URL, attachment ID, verification date and outstanding presentation items in the register. Keep destination failures pending independently; repairing staging must never duplicate an existing LinkedIn publication.
+6. The existing hourly condition-watch task `6ae9839540988191b92a3df877cc105d` now covers staging sync as well as LinkedIn. No additional scheduler or new article-writing cadence was created.
+
+### Current handoff for the Website project
+
+NAP-001 already existed as **WordPress post 25**, category **3**, with featured attachment **23**. On 5 November 2026 the Articles workflow verified exact title, all seven headings and 22 paragraphs, excerpt and publication instant against current `main`; the attachment is 1920 × 1080 WebP with matching alt text and loads in the browser.
+
+**Presentation item:** the current active staging template serves the full article but does not render its assigned featured image on the single-article page. The Website workflow should include the featured-image field in its finished article template. Articles has left the template and layout unchanged.
+
+Current returned staging URL (re-read after future permalink work):
+https://dev-new-napco.pantheonsite.io/2026/11/03/napco-adhesive-sealant-coating-expertise/
