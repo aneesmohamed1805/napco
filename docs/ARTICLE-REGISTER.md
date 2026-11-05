@@ -31,3 +31,16 @@ Definitions and enquiry questions are general education, not SKU selection or in
 ## Verified LinkedIn cover workflow
 
 The image upload succeeded using locator.downloadMedia on the served article's img.article-cover. It returned a browser-device path /Users/aneesmohamed/Downloads/napco-adhesive-sealant-coating-expertise.webp. A pageAssets /browser-use/assets path did not populate LinkedIn's upload. Open the cover dialog, then start filechooser wait and click the dialog's actual upload control with CUA coordinates from a fresh screenshot; semantic clicks on the iframe file input did not open the chooser here. Pass the returned browser-device download path to setFiles, verify the thumbnail, click the dialog Next, verify the editor cover, then continue publishing. Preserve full headings via HTML clipboard paste. Do not assume a future chooser uses the same coordinates or filename.
+
+## WordPress staging verification — 5 November 2026
+
+- Additional destination authorised by user: https://dev-new-napco.pantheonsite.io/ for every future published programme article and existing programme backfill. Existing static-site and LinkedIn workflows continue.
+- Current programme inventory in main: NAP-001 is the only published November programme article; historical 2019 wood-floor record remains excluded.
+- NAP-001 WordPress post ID: **25**; status `publish`; slug `napco-adhesive-sealant-coating-expertise`; category **3** (`company-industry-insight`).
+- Current WordPress permalink: https://dev-new-napco.pantheonsite.io/2026/11/03/napco-adhesive-sealant-coating-expertise/ . Re-read the post link after the Website project finalises URL settings.
+- Featured media: **23**; source https://dev-new-napco.pantheonsite.io/wp-content/uploads/2026/11/napco-adhesive-sealant-coating-expertise.webp ; 1920 × 1080 WebP; alt text exactly matches repository record.
+- Verification: exact full Gutenberg body compared with current repository JSON (seven headings, 22 paragraphs), matching title and excerpt; publication instant matches 3 November 2026 05:00 UTC / 09:00 Dubai. Browser confirmed the served article contains complete text through its final paragraph and the featured attachment loads at 1920 × 1080.
+- Existing content and media were reused; no duplicate post, attachment or LinkedIn article was created. No editorial content, design or settings were changed.
+- Review safeguard: WordPress `blog_public=0`; browser-observed article robots `noindex, nofollow`.
+- **Pending Website presentation:** the active single-article template currently does not display the assigned featured image. Recorded in ARTICLE-HANDOFF.md for the Website workflow; Articles has not altered layout or theme.
+- Ongoing task `6ae9839540988191b92a3df877cc105d` updated in place to **NAPCO article sync and LinkedIn**, retaining its existing hourly schedule and LinkedIn duplicate safeguards while adding staging sync. A failure in one destination stays pending independently of another destination's published status.
