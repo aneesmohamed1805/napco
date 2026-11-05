@@ -74,7 +74,7 @@ The user has also authorised the Articles project to keep **https://dev-new-napc
 
 NAP-001 already existed as **WordPress post 25**, category **3**, with featured attachment **23**. On 5 November 2026 the Articles workflow verified exact title, all seven headings and 22 paragraphs, excerpt and publication instant against current `main`; the attachment is 1920 × 1080 WebP with matching alt text and loads in the browser.
 
-**Presentation item:** the current active staging template serves the full article but does not render its assigned featured image on the single-article page. The Website workflow should include the featured-image field in its finished article template. Articles has left the template and layout unchanged.
+**Presentation status:** the Website workflow now renders the assigned featured image on single-article pages and applies the NAPCO article layout. Articles should continue assigning the featured attachment normally and must not override the Website project's post-template presentation.
 
 Current returned staging URL (re-read after future permalink work):
 https://dev-new-napco.pantheonsite.io/2026/11/03/napco-adhesive-sealant-coating-expertise/
@@ -86,3 +86,14 @@ The Website project confirms that Articles should publish each approved item as 
 The Website project reports removing the default "Hello world!" post from the feed. This is a relayed status update, not an instruction for Articles to perform another deletion. The dynamic feed implementation remains with Website; no completion or deployment of that implementation has been independently verified by this note.
 
 Articles continues to own copy, featured-image assets and publication. Existing GitHub/static and native LinkedIn destinations, duplicate safeguards, editorial calendar and staging noindex protections remain in place unless separately changed by the user.
+
+### WordPress article-end block — website implementation 5 November 2026
+
+The Website project created reusable WordPress block **372**, titled **NAPCO Article End**. It contains the article-level **Discuss your application** action followed by the approved NAPCO Stackable footer. For every programme article synchronised to this WordPress staging site, Articles must append this reusable block reference exactly once at the end of the post content:
+
+`<!-- wp:block {"ref":372} /-->`
+
+Before writing, check whether that block reference is already present and never duplicate it. Preserve the article body above it exactly. If the reusable block ID is missing or no longer resolves, leave the destination pending and notify the Website workflow rather than replacing it with invented footer markup.
+
+The Website project also owns the live homepage/Insights feeds and the single-post featured-image presentation. Articles should publish ordinary WordPress posts with the approved title, body, excerpt, category, date and featured attachment; it should not hand-maintain homepage cards, Insights cards, header/footer markup or theme settings. After sync, verify the served post includes the featured image and the NAPCO article-end block.
+
