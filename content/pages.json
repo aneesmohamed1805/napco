@@ -8,8 +8,9 @@
     "image": "adhesives",
     "heading": "Bonding across different materials.",
     "body": [
-      "NAPCO develops adhesives for industrial, manufacturing and construction applications. Its published range includes hot-melt, instant and pressure-sensitive adhesives, thread-lockers and structural adhesives.",
-      "Acrylic, epoxy and urethane technologies are among the chemistries described in NAPCO’s portfolio. Selection should be tied to the materials, assembly process and requirements of the finished application."
+      "NAPCO’s published adhesive portfolio covers hot-melt, instant and pressure-sensitive adhesives, thread-lockers and structural adhesives for construction and industrial applications.",
+      "The current product overview identifies acrylic, epoxy and urethane technologies and describes bonding across substrates including bare and painted metal, composites and rubber-to-substrate assemblies.",
+      "Selection should begin with the substrates, joint design, production method and conditions in use. Product-specific suitability still needs to be confirmed against current technical documentation."
     ],
     "topics": [
       {
@@ -95,8 +96,9 @@
     "image": "architecture",
     "heading": "Build. Protect. Finish. Repair.",
     "body": [
-      "NAPCO’s construction offer is organised around four stages: Build, Protect, Finish and Repair. Its published applications include preparing, bonding, sealing and protecting building materials.",
-      "The current construction overview describes moisture-related applications, including foundations and basement damp-proofing. Use current technical information to establish the appropriate product and system for the project."
+      "NAPCO organises its construction offer around four stages: Build, Protect, Finish and Repair. The live construction overview describes products used under floors, behind walls and within building structures.",
+      "Published applications include waterproof bonding and sealing, foundation and basement damp-proofing, swimming-pool applications, roofing, bonding agents, grouts, sealants and coatings.",
+      "Use the four application stages to frame the project requirement, then confirm the actual system and product against current technical information."
     ],
     "topics": [
       {
@@ -120,6 +122,126 @@
     "source": "https://www.napcoadhesives.com/solutions/construction-solutions/"
   },
   {
+    "path": "/solutions/construction-solutions/build/",
+    "title": "Build",
+    "eyebrow": "Construction solutions",
+    "headline": "START WITH\nTHE STRUCTURE.",
+    "summary": "Material and application thinking for new construction.",
+    "image": "architecture",
+    "heading": "Plan the materials with the build.",
+    "body": [
+      "NAPCO’s published Build page starts at the planning stage of a structure and describes collaboration with architects, engineers and project teams.",
+      "The live site references concrete and cement, grout, structural adhesives, bonding agents, waterproofing, roofing, sealants and coatings as part of the construction discussion.",
+      "Use the structural detail, substrates, construction sequence and required technical documentation to define the next step."
+    ],
+    "topics": [
+      {
+        "title": "Planning stage",
+        "description": "Bring the structural detail and material interfaces into the conversation early."
+      },
+      {
+        "title": "Construction materials",
+        "description": "Consider concrete, cementitious materials, grouts, bonding agents and adjoining substrates."
+      },
+      {
+        "title": "Technical confirmation",
+        "description": "Check the current product and system information before specification."
+      }
+    ],
+    "group": "construction-stage",
+    "source": "https://www.napcoadhesives.com/solutions/construction-solutions/build/"
+  },
+  {
+    "path": "/solutions/construction-solutions/protect/",
+    "title": "Protect",
+    "eyebrow": "Construction solutions",
+    "headline": "PROTECTION STARTS\nWITH THE EXPOSURE.",
+    "summary": "Protection, moisture and sealing considerations for construction.",
+    "image": "coatings",
+    "heading": "Understand what the structure is exposed to.",
+    "body": [
+      "NAPCO’s current construction overview describes waterproof bonding and sealing, foundation and basement damp-proofing, swimming-pool applications, roofing and other measures intended to limit moisture migration.",
+      "The protection requirement changes with the substrate, location and exposure. A below-grade interface, roof detail and wet-area application should not be treated as the same problem.",
+      "Define the exposure and construction detail first, then confirm the appropriate system against current NAPCO technical information."
+    ],
+    "topics": [
+      {
+        "title": "Moisture",
+        "description": "Identify the source, direction and severity of water or moisture exposure."
+      },
+      {
+        "title": "Substrate",
+        "description": "Consider the actual construction material and surface condition."
+      },
+      {
+        "title": "System selection",
+        "description": "Confirm the relevant waterproofing, sealing or coating documentation."
+      }
+    ],
+    "group": "construction-stage",
+    "source": "https://www.napcoadhesives.com/solutions/construction-solutions/"
+  },
+  {
+    "path": "/solutions/construction-solutions/finish/",
+    "title": "Finish",
+    "eyebrow": "Construction solutions",
+    "headline": "THE FINISH BEGINS\nWITH THE SURFACE.",
+    "summary": "Surface-led thinking for construction finishing applications.",
+    "image": "materials",
+    "heading": "Connect the finish with the substrate.",
+    "body": [
+      "NAPCO’s construction portfolio includes adhesives, sealants and coatings used to prepare, bond, seal and protect building materials through the finishing stages of a project.",
+      "The finished appearance is only one part of the requirement. Surface condition, material compatibility, installation sequence and expected exposure all influence the application discussion.",
+      "Start with the substrate and intended finish, then review the relevant current technical documentation."
+    ],
+    "topics": [
+      {
+        "title": "Surface preparation",
+        "description": "Describe the substrate, existing finish and condition before application."
+      },
+      {
+        "title": "Joint & interface",
+        "description": "Consider how adjoining materials meet and move."
+      },
+      {
+        "title": "Final layer",
+        "description": "Match the finishing requirement to the correct product information."
+      }
+    ],
+    "group": "construction-stage",
+    "source": "https://www.napcoadhesives.com/solutions/construction-solutions/"
+  },
+  {
+    "path": "/solutions/construction-solutions/repair/",
+    "title": "Repair",
+    "eyebrow": "Construction solutions",
+    "headline": "REPAIR STARTS WITH\nTHE EXISTING CONDITION.",
+    "summary": "Maintenance and renovation thinking from below ground to rooftop.",
+    "image": "craft",
+    "heading": "Understand what has changed before repairing it.",
+    "body": [
+      "NAPCO’s published Repair page frames renovation and repair as a way to extend the usable life of buildings and infrastructure.",
+      "The live page describes repair requirements from below-ground areas to rooftops, inside and outside the structure. The existing condition, substrate and cause of failure therefore need to be understood before material selection.",
+      "Use current technical information to match the repair scope with the appropriate product or system."
+    ],
+    "topics": [
+      {
+        "title": "Existing condition",
+        "description": "Document the substrate, damage and previous treatment before repair."
+      },
+      {
+        "title": "Repair scope",
+        "description": "Define whether the requirement is bonding, sealing, coating or rebuilding."
+      },
+      {
+        "title": "Current documentation",
+        "description": "Confirm product suitability for the specific repair condition."
+      }
+    ],
+    "group": "construction-stage",
+    "source": "https://www.napcoadhesives.com/solutions/construction-solutions/repair/"
+  },
+  {
     "path": "/solutions/industrial-solutions/automotive/",
     "title": "Automotive",
     "eyebrow": "Industrial solutions",
@@ -128,8 +250,9 @@
     "image": "automotive",
     "heading": "Look inside the assembly.",
     "body": [
-      "NAPCO’s automotive offering addresses components and processes across vehicle manufacture, assembly and repair. Its published overview includes interiors, exteriors, electronics, body assembly, trim and aftersales applications.",
-      "The relevant solution depends on the component and the production requirement. Bring the materials, application process and end-use conditions into the technical conversation."
+      "NAPCO’s automotive and transport material portfolio spans multiple manufacturing steps rather than a single bond line. Its published overview references interiors, exteriors, electronics, body assembly, trim and aftersales applications.",
+      "The live site also describes applications across the press shop, paint division and assembly process, including metalworking fluids, adhesives, sealants, metal coatings, pre-treatment and repair solutions.",
+      "The relevant formulation depends on the component, substrates, production process and end-use conditions. Those application details should lead the technical discussion."
     ],
     "topics": [
       {
@@ -215,8 +338,9 @@
     "image": "wood",
     "heading": "Start with the end use.",
     "body": [
-      "NAPCO’s engineered-wood approach emphasises working with customers and sharing application knowledge. Its overview discusses factory production and the varied uses of timber and engineered wood in buildings.",
-      "The finished component, materials and production method are the starting point for the application conversation. Refer to the relevant product data and project requirements before specifying a solution."
+      "NAPCO’s engineered-wood approach emphasises customer collaboration and application knowledge around factory-made timber and wood-based components.",
+      "Its published applications include wood-to-wood assembly, edge banding, edge-to-edge gluing, finger jointing and bonding wood to metal or other dissimilar materials.",
+      "Start with the actual wood-based material, adjacent substrate, production process and service environment, then confirm the relevant adhesive and current product documentation."
     ],
     "topics": [
       {
@@ -273,8 +397,9 @@
     "image": "manufacturing",
     "heading": "Connect materials with the process.",
     "body": [
-      "NAPCO’s manufacturing portfolio includes structural and flexible bonding, instant adhesives, thread-lockers, gasketing sealants and coatings. Its overview also covers metalworking and cable-related applications.",
-      "The role of a material needs to be considered within the production process and the finished assembly. Discuss the substrates, operating conditions and product-specific requirements with NAPCO."
+      "NAPCO’s manufacturing portfolio covers structural and flexible bonding, instant adhesives, thread-lockers, gasketing sealants and coatings across industrial production.",
+      "Published examples extend into metalworking, cable-related applications, fluid-leak prevention, noise and vibration control and sealing requirements exposed to temperature, pressure or movement.",
+      "The material decision should be tied to the production step, substrates and finished assembly. Current technical data remains the basis for product-specific selection."
     ],
     "topics": [
       {
@@ -294,33 +419,304 @@
     "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/manufacturing/"
   },
   {
-    "path": "/corporate/napco-world/",
-    "title": "About NAPCO",
-    "eyebrow": "NAPCO World",
-    "headline": "WE MAKE\nIT STICK!",
-    "summary": "Adhesives, sealants and coatings for construction and industry.",
-    "image": "materials",
-    "heading": "Consistent quality through innovation.",
+    "path": "/solutions/industrial-solutions/medical/",
+    "title": "Medical",
+    "eyebrow": "Industrial solutions",
+    "headline": "PRECISION BEGINS\nWITH THE REQUIREMENT.",
+    "summary": "Application-led adhesive thinking for medical manufacturing.",
+    "image": "electronics",
+    "heading": "Start with the device and manufacturing requirement.",
     "body": [
-      "NAPCO combines adhesives, sealants and coatings with technical and research-and-development expertise. Its published applications span construction and industrial markets.",
-      "The company’s approach centres on understanding customer requirements and developing application-led solutions. The portfolio reaches across sectors including automotive, electronics, packaging, furniture and manufacturing."
+      "NAPCO’s current Medical page describes adhesive material solutions for diverse medical-manufacturing requirements and emphasises the need to understand each product design.",
+      "The published material also connects its R&D and reverse-engineering approach with application-specific formulation work.",
+      "Medical applications can carry additional regulatory and validation requirements. Product selection should therefore be confirmed against current technical and regulatory documentation for the intended use."
     ],
     "topics": [
       {
-        "title": "Application understanding",
-        "description": "Start with the job the material needs to do."
+        "title": "Device context",
+        "description": "Describe the component, substrates and role of the adhesive in the assembly."
       },
       {
-        "title": "Technical thinking",
-        "description": "Connect materials and formulation with the application."
+        "title": "Manufacturing process",
+        "description": "Bring dispensing, handling and production constraints into the brief."
       },
       {
-        "title": "Working together",
-        "description": "Build the conversation around customer requirements."
+        "title": "Documentation",
+        "description": "Confirm the current technical and regulatory scope for the intended use."
+      }
+    ],
+    "group": "industry",
+    "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/medical/"
+  },
+  {
+    "path": "/solutions/industrial-solutions/sports-fashion/",
+    "title": "Sports & fashion",
+    "eyebrow": "Industrial solutions",
+    "headline": "FLEXIBILITY MEETS\nPRODUCTION.",
+    "summary": "Bonding solutions for footwear, fashion, sports and textile-based applications.",
+    "image": "craft",
+    "heading": "Consider the material, movement and process.",
+    "body": [
+      "NAPCO’s Sports & Fashion page covers footwear, bags, balls, sportswear and selected sports-equipment applications.",
+      "Its published technology references include water-based adhesives, toluene-free adhesives, cyanoacrylates, hot-melt and PUR hot-melt systems for varied production requirements.",
+      "The right discussion begins with the materials, flexibility, production method and end-use requirements rather than the category name alone."
+    ],
+    "topics": [
+      {
+        "title": "Footwear & accessories",
+        "description": "Discuss material combinations used in shoes, bags and related products."
+      },
+      {
+        "title": "Textile applications",
+        "description": "Consider flexibility, handling and production requirements."
+      },
+      {
+        "title": "Technology choice",
+        "description": "Review the current chemistry and technical information for the application."
+      }
+    ],
+    "group": "industry",
+    "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/sports-fashion/"
+  },
+  {
+    "path": "/solutions/industrial-solutions/signage-graphics/",
+    "title": "Signage & graphics",
+    "eyebrow": "Industrial solutions",
+    "headline": "GRAPHICS THAT HOLD\nTO THE APPLICATION.",
+    "summary": "Adhesive solutions for signage, graphics, labels and related media.",
+    "image": "packaging",
+    "heading": "Match the adhesive to the graphic and environment.",
+    "body": [
+      "NAPCO’s Signage & Graphics page covers adhesive applications across POS and advertising graphics, bookbinding, vehicle graphics, signage, traffic and safety graphics, exhibition graphics and architectural or corporate graphics.",
+      "The published overview also describes pressure-sensitive adhesive requirements and indoor versus weather-resistant outdoor applications.",
+      "Start with the face material, substrate, application environment and production process, then confirm the relevant technical information."
+    ],
+    "topics": [
+      {
+        "title": "Graphic application",
+        "description": "Identify the media, substrate and installation method."
+      },
+      {
+        "title": "Indoor & outdoor",
+        "description": "Define environmental exposure and service conditions."
+      },
+      {
+        "title": "Production requirements",
+        "description": "Consider labels, tapes, graphics and converting needs within the process."
+      }
+    ],
+    "group": "industry",
+    "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/signage-graphics/"
+  },
+  {
+    "path": "/solutions/industrial-solutions/white-goods/",
+    "title": "White goods",
+    "eyebrow": "Industrial solutions",
+    "headline": "ASSEMBLY THINKING\nFOR APPLIANCES.",
+    "summary": "Adhesive and sealant applications in home and commercial appliances.",
+    "image": "manufacturing",
+    "heading": "Look at the appliance as an assembly.",
+    "body": [
+      "NAPCO’s White Goods page describes adhesive and sealant applications across home and commercial appliance manufacturing.",
+      "Published examples include metal, glass, foams and low-surface-energy plastics, together with mounting, trim, badges, gaskets and seals, control panels, coils, glass doors and cooktops.",
+      "The page also discusses functions such as noise and vibration damping, heat dissipation and gasketing. Product-specific performance needs to be confirmed against current technical data."
+    ],
+    "topics": [
+      {
+        "title": "Assembly substrates",
+        "description": "Consider metal, glass, foam, plastics and the interfaces between them."
+      },
+      {
+        "title": "Functional bonding",
+        "description": "Discuss mounting, sealing, damping and related assembly roles."
+      },
+      {
+        "title": "Production efficiency",
+        "description": "Connect product choice with automation, handling and manufacturing conditions."
+      }
+    ],
+    "group": "industry",
+    "source": "https://www.napcoadhesives.com/solutions/industrial-solutions/white-goods/"
+  },
+  {
+    "path": "/corporate/",
+    "title": "About NAPCO",
+    "eyebrow": "Corporate",
+    "headline": "CONSISTENT QUALITY.\nAPPLICATION-LED THINKING.",
+    "summary": "Company context, history, people and regional application knowledge.",
+    "image": "materials",
+    "heading": "A company built around materials and relationships.",
+    "body": [
+      "NAPCO’s current corporate site presents the company around adhesives, coatings and sealants for construction and industrial markets, supported by technical expertise and research and development.",
+      "Its published corporate themes include history, vision and goals, NAPCO World, regional presence, corporate culture, leadership, milestones and brands.",
+      "The new website brings those themes into a clearer application-led structure while preserving the established promise of consistent quality delivered through innovation."
+    ],
+    "topics": [
+      {
+        "title": "History & milestones",
+        "description": "Follow the development of NAPCO’s manufacturing and materials portfolio."
+      },
+      {
+        "title": "Vision & relationships",
+        "description": "See how the company describes its regional ambition and long-term partnerships."
+      },
+      {
+        "title": "People & technical thinking",
+        "description": "Connect leadership, culture and R&D with customer application requirements."
+      }
+    ],
+    "group": "company",
+    "source": "https://www.napcoadhesives.com/corporate/"
+  },
+  {
+    "path": "/corporate/history/",
+    "title": "History",
+    "eyebrow": "About NAPCO",
+    "headline": "BUILT OVER TIME.\nSTILL MOVING FORWARD.",
+    "summary": "Key steps in NAPCO’s manufacturing and materials journey.",
+    "image": "manufacturing",
+    "heading": "From technical services to manufacturing.",
+    "body": [
+      "NAPCO’s published History page says NAPCO Industries (UK) has been involved in adhesives manufacturing since 1988 and that a UAE manufacturing facility was established in 1995.",
+      "The same page records the introduction of solvent-borne adhesives in 1998, sealants in 2003 and an independent production facility in 2007.",
+      "The important website story is the evolution of capabilities over time: adhesives, coatings and sealants developed alongside changing construction and industrial requirements."
+    ],
+    "topics": [
+      {
+        "title": "1995",
+        "description": "The published history records the establishment of a UAE manufacturing facility."
+      },
+      {
+        "title": "1998–2003",
+        "description": "Solvent-borne adhesives and then sealant production were added."
+      },
+      {
+        "title": "2007 onward",
+        "description": "An independent facility supported a broader production portfolio."
+      }
+    ],
+    "group": "company",
+    "source": "https://www.napcoadhesives.com/corporate/history/"
+  },
+  {
+    "path": "/corporate/napco-world/",
+    "title": "NAPCO World",
+    "eyebrow": "About NAPCO",
+    "headline": "APPLICATIONS THAT\nTOUCH EVERYDAY LIFE.",
+    "summary": "A broad materials portfolio supporting construction and industrial applications.",
+    "image": "materials",
+    "heading": "From everyday objects to complex production.",
+    "body": [
+      "NAPCO’s published company material describes adhesives, sealants and coatings used across everyday products and industrial processes, from books and packaging to vehicles, appliances, furniture and electronics.",
+      "The company positions application knowledge and research-and-development capability as part of how it works with customers across manufacturing and construction.",
+      "The practical website route is therefore application-led: identify the materials, process and performance requirement first, then move into the relevant product family and technical information."
+    ],
+    "topics": [
+      {
+        "title": "Everyday applications",
+        "description": "See where bonding, sealing and coating functions appear across products and structures."
+      },
+      {
+        "title": "Industrial processes",
+        "description": "Connect material selection with manufacturing and assembly requirements."
+      },
+      {
+        "title": "Technical partnership",
+        "description": "Bring the application challenge into the conversation with NAPCO."
       }
     ],
     "group": "company",
     "source": "https://www.napcoadhesives.com/corporate/napco-world/"
+  },
+  {
+    "path": "/corporate/napco-in-emea/",
+    "title": "NAPCO in EMEA",
+    "eyebrow": "About NAPCO",
+    "headline": "REGIONAL KNOWLEDGE.\nLOCAL APPLICATIONS.",
+    "summary": "A partner-led approach across key EMEA markets.",
+    "image": "materials",
+    "heading": "Regional reach through partners and market knowledge.",
+    "body": [
+      "NAPCO’s current regional page describes an active presence in key EMEA markets supported by distributors, retailers and other business partners.",
+      "The published approach emphasises understanding local customer needs, assessing partners and using regional market knowledge to support product and application decisions.",
+      "For the new website, regional presence should be presented as a route to local application conversations rather than as an unverified claim of universal coverage."
+    ],
+    "topics": [
+      {
+        "title": "Partner network",
+        "description": "The live site describes distributors and retailers as part of NAPCO’s regional route to market."
+      },
+      {
+        "title": "Local requirements",
+        "description": "Application and market needs vary by geography and customer context."
+      },
+      {
+        "title": "Technical continuity",
+        "description": "Use shared product and technical information while addressing local requirements."
+      }
+    ],
+    "group": "company",
+    "source": "https://www.napcoadhesives.com/corporate/napco-in-emea/"
+  },
+  {
+    "path": "/corporate/leadership/",
+    "title": "Leadership & culture",
+    "eyebrow": "About NAPCO",
+    "headline": "PEOPLE WHO BUILD\nTHE NEXT SOLUTION.",
+    "summary": "Leadership, technical competence and a culture of collaboration.",
+    "image": "technical",
+    "heading": "Empower expertise. Keep learning.",
+    "body": [
+      "NAPCO’s published Leadership page describes an organisation that values technical competence, respectful working relationships and employee development.",
+      "The company says employees are encouraged to develop and propose ideas, while training and development support future technical and leadership capability.",
+      "The corporate site also describes long-term, mutually beneficial relationships as a central part of NAPCO’s culture."
+    ],
+    "topics": [
+      {
+        "title": "Technical competence",
+        "description": "Build expertise around materials, applications and customer requirements."
+      },
+      {
+        "title": "Development",
+        "description": "The live site emphasises training, learning and future leadership capability."
+      },
+      {
+        "title": "Relationships",
+        "description": "Collaboration and long-term partnerships are recurring themes in NAPCO’s corporate material."
+      }
+    ],
+    "group": "company",
+    "source": "https://www.napcoadhesives.com/corporate/leadership/"
+  },
+  {
+    "path": "/corporate/milestones-achievements/",
+    "title": "Milestones & achievements",
+    "eyebrow": "About NAPCO",
+    "headline": "A JOURNEY OF\nCAPABILITY BUILDING.",
+    "summary": "Published milestones in NAPCO’s manufacturing development.",
+    "image": "manufacturing",
+    "heading": "A timeline of expanding capability.",
+    "body": [
+      "NAPCO’s current corporate material records the UAE manufacturing facility in 1995, the addition of solvent-borne adhesives in 1998, sealant production in 2003 and an independent production facility in 2007.",
+      "These milestones are useful because they show how the company broadened its technical and manufacturing scope over time.",
+      "Earlier-year references differ between the live History and Milestones pages, so the new site intentionally avoids reproducing the conflicting pre-1995 date until it is verified."
+    ],
+    "topics": [
+      {
+        "title": "1995",
+        "description": "UAE manufacturing is recorded as a major step in the published history."
+      },
+      {
+        "title": "1998 & 2003",
+        "description": "Additional adhesive and sealant manufacturing capabilities were introduced."
+      },
+      {
+        "title": "2007",
+        "description": "The live site records the move to an independent production facility."
+      }
+    ],
+    "group": "company",
+    "source": "https://www.napcoadhesives.com/corporate/milestones-achievements/"
   },
   {
     "path": "/innovation/innovation-strategy/",
@@ -331,8 +727,9 @@
     "image": "technical",
     "heading": "Innovation starts with a real requirement.",
     "body": [
-      "NAPCO describes its innovation strategy as centred on material science. Its research and development work addresses functional materials, polymer building blocks and adhesive-bonding processes.",
-      "The published strategy also identifies reverse engineering as part of its technical approach. Customer requirements help frame the development of adhesives, coatings and sealants for the markets NAPCO serves."
+      "NAPCO describes its innovation strategy as centred on material science and customer application challenges. Its research and development work addresses functional materials, polymer building blocks and adhesive-bonding processes.",
+      "The published strategy also identifies reverse engineering as part of its development approach, alongside formulation and manufacturing work for adhesives, coatings and sealants.",
+      "The strongest role for the website is to connect that technical thinking to a real requirement: the materials, process, constraints and end use that define the application."
     ],
     "topics": [
       {
@@ -350,5 +747,97 @@
     ],
     "group": "company",
     "source": "https://www.napcoadhesives.com/innovation/innovation-strategy/"
+  },
+  {
+    "path": "/standards/",
+    "title": "Standards",
+    "eyebrow": "How NAPCO works",
+    "headline": "QUALITY IS A\nWORKING DISCIPLINE.",
+    "summary": "Quality, service, ethics, safety and supplier expectations.",
+    "image": "technical",
+    "heading": "Standards extend beyond the product.",
+    "body": [
+      "NAPCO’s current Standards section is organised around customer service, quality, environment/health/safety, business ethics and procurement.",
+      "The published material describes quality and reliability as continuing priorities, ethical conduct as a guiding principle, and supplier quality and delivery performance as part of procurement.",
+      "Specific certifications, test standards and accreditation scopes should be checked against current certificates before they are presented as production claims."
+    ],
+    "topics": [
+      {
+        "title": "Quality & service",
+        "description": "Connect product quality with customer support and process discipline."
+      },
+      {
+        "title": "Ethics & procurement",
+        "description": "The live site describes integrity and supplier expectations as part of how NAPCO operates."
+      },
+      {
+        "title": "Health, safety & environment",
+        "description": "Treat EHS commitments and certification statements as items requiring current verification."
+      }
+    ],
+    "group": "company",
+    "source": "https://www.napcoadhesives.com/standards/",
+    "verificationNote": "Review note: certification names, dates and scopes on the legacy site are not being republished as verified production claims. Confirm against current certificates before launch."
+  },
+  {
+    "path": "/sustainability/",
+    "title": "Sustainability",
+    "eyebrow": "How NAPCO works",
+    "headline": "IMPROVEMENT ACROSS\nTHE VALUE CHAIN.",
+    "summary": "Published sustainability themes across suppliers, operations and future targets.",
+    "image": "materials",
+    "heading": "Supply chain, operations and future direction.",
+    "body": [
+      "NAPCO’s current sustainability material is organised around supply chain, sustainable operations and future targets.",
+      "The supply-chain section describes expectations around integrity, quality, collaboration and continuous improvement. The operations section discusses low-VOC development, resource efficiency and customer/supplier involvement as themes.",
+      "The published Targets page sets a 2030 ambition for key suppliers to demonstrate positive sustainability contribution. This and any environmental performance claims should be revalidated before production publication."
+    ],
+    "topics": [
+      {
+        "title": "Supply chain",
+        "description": "Work with suppliers on quality, integrity, collaboration and improvement."
+      },
+      {
+        "title": "Operations",
+        "description": "The live site discusses process improvement, lower-VOC development and resource efficiency."
+      },
+      {
+        "title": "Future targets",
+        "description": "Treat published targets as commitments that require current confirmation before launch."
+      }
+    ],
+    "group": "company",
+    "source": "https://www.napcoadhesives.com/sustainability/supply-chain/",
+    "verificationNote": "Review note: environmental, LEED, Green Seal, emissions and target claims require current documentary verification before production launch."
+  },
+  {
+    "path": "/careers/",
+    "title": "Careers",
+    "eyebrow": "People at NAPCO",
+    "headline": "BUILD YOUR BONDS.\nBUILD YOUR CAREER.",
+    "summary": "A workplace focused on technical competence, learning and collaboration.",
+    "image": "craft",
+    "heading": "Work where materials, ideas and people meet.",
+    "body": [
+      "NAPCO’s current Careers section describes a people-oriented workplace with opportunities to learn, develop and grow.",
+      "Its Why NAPCO and What We Offer pages emphasise ideas, teamwork, innovation, performance, training and career development.",
+      "Current vacancies and application processes remain on the live careers site and should be checked there before applying."
+    ],
+    "topics": [
+      {
+        "title": "Why NAPCO",
+        "description": "The live site highlights contribution, learning and room to grow."
+      },
+      {
+        "title": "What we offer",
+        "description": "Collaboration, development and technical competence are recurring themes."
+      },
+      {
+        "title": "Openings",
+        "description": "Use the current live careers pages for up-to-date vacancies and application details."
+      }
+    ],
+    "group": "company",
+    "source": "https://www.napcoadhesives.com/careers/"
   }
 ]
