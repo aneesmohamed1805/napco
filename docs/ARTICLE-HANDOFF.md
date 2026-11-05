@@ -78,3 +78,11 @@ NAP-001 already existed as **WordPress post 25**, category **3**, with featured 
 
 Current returned staging URL (re-read after future permalink work):
 https://dev-new-napco.pantheonsite.io/2026/11/03/napco-adhesive-sealant-coating-expertise/
+
+## Website project feed contract — relayed by user 5 November 2026
+
+The Website project confirms that Articles should publish each approved item as a normal WordPress `post` on staging, including full copy, title, excerpt, featured image, publication date and category. The Website project owns presentation, responsive layout and automatic feed updates: the homepage shows the latest three published posts and `/insights/` shows the full published article feed using WordPress's dynamic post query within the surrounding Stackable architecture. Articles must not manually rewrite cards or maintain a separate homepage/archive content list.
+
+The Website project reports removing the default "Hello world!" post from the feed. This is a relayed status update, not an instruction for Articles to perform another deletion. The dynamic feed implementation remains with Website; no completion or deployment of that implementation has been independently verified by this note.
+
+Articles continues to own copy, featured-image assets and publication. Existing GitHub/static and native LinkedIn destinations, duplicate safeguards, editorial calendar and staging noindex protections remain in place unless separately changed by the user.
