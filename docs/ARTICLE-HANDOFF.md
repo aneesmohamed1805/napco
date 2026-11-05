@@ -96,4 +96,9 @@ The Website project created reusable WordPress block **372**, titled **NAPCO Art
 Before writing, check whether that block reference is already present and never duplicate it. Preserve the article body above it exactly. If the reusable block ID is missing or no longer resolves, leave the destination pending and notify the Website workflow rather than replacing it with invented footer markup.
 
 The Website project also owns the live homepage/Insights feeds and the single-post featured-image presentation. Articles should publish ordinary WordPress posts with the approved title, body, excerpt, category, date and featured attachment; it should not hand-maintain homepage cards, Insights cards, header/footer markup or theme settings. After sync, verify the served post includes the featured image and the NAPCO article-end block.
+### Final-site editorial rule — 5 November 2026
+
+All article copy sent to GitHub, WordPress staging or LinkedIn must read as **final NAPCO audience-facing content**, not as commentary about source material or a redesign process. Do not use provenance/staging language such as **live site**, **current website**, **existing website**, **website preview**, **review build**, **new website**, **published portfolio**, **published overview**, **published industrial coverage**, **review note**, **conceptual application imagery**, or similar phrases that reveal where the information was sourced or that the destination is provisional.
+
+Rewrite supported facts directly in NAPCO’s voice. For example, write **“NAPCO’s industrial coverage includes…”** rather than **“NAPCO’s published industrial coverage includes…”**. References to **current technical documentation**, **latest approved product data**, or other customer-facing document currency are still appropriate where technically relevant.
 
