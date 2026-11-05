@@ -839,5 +839,35 @@
     ],
     "group": "company",
     "source": "https://www.napcoadhesives.com/careers/"
+  },
+  {
+    "path": "/how-to-buy/",
+    "title": "How to buy",
+    "eyebrow": "Buying NAPCO",
+    "headline": "START WITH\nTHE RIGHT ROUTE.",
+    "summary": "Direct, partner and e-store routes for purchasing NAPCO products and services.",
+    "image": "packaging",
+    "heading": "Choose the route that fits your requirement.",
+    "body": [
+      "NAPCO’s current How to Buy page describes three purchasing routes: direct from NAPCO, through distribution partners and through the existing web store.",
+      "If the application or product requirement is not yet clear, the live site directs customers to contact NAPCO for help, to locate a distributor, request a quote or discuss a sample.",
+      "The new website keeps this journey application-led: confirm what you need first, then move to the appropriate purchasing route."
+    ],
+    "topics": [
+      {
+        "title": "Direct",
+        "description": "Talk to NAPCO about your application, quote or sample requirement."
+      },
+      {
+        "title": "Partners",
+        "description": "Use the current distributor route when local supply is the right option."
+      },
+      {
+        "title": "E-Store",
+        "description": "Use the existing NAPCO web store when the required product is already known."
+      }
+    ],
+    "group": "support",
+    "source": "https://www.napcoadhesives.com/how-to-buy/"
   }
 ]
