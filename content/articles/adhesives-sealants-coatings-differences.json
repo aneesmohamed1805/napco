@@ -1,0 +1,50 @@
+{
+  "id": "adhesives-sealants-coatings-differences",
+  "title": "Adhesives, Sealants and Coatings: What Each One Does",
+  "date": "2026-11-05T09:00:00+04:00",
+  "status": "published",
+  "category": "Company & industry insight",
+  "excerpt": "Learn how adhesives, sealants and coatings work at different points in an assembly, and what to specify when a detail calls for more than one.",
+  "path": "/insights/adhesives-sealants-coatings-differences/",
+  "external": false,
+  "image": "/assets/articles/adhesives-sealants-coatings-differences.webp",
+  "imageAlt": "Steel, concrete and coated material samples meeting at a narrow red interface",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Start with the job at the interface",
+      "paragraphs": [
+        "A façade panel, a furniture component and a sheet-metal enclosure can all contain a bond, a sealed joint and a coated surface. Each material performs a different job, even when all three are concentrated in a few centimetres of the assembly. Assigning those jobs early gives designers and buyers a clearer way to compare options and helps installers understand what has to happen at each step.",
+        "At NAPCO, the starting point for these conversations is the application. Which surfaces are involved? What has to stay joined, what has to stay closed, and what needs a protective or functional surface? Those questions help define where adhesives, sealants and coatings each belong."
+      ]
+    },
+    {
+      "heading": "Adhesives join two surfaces",
+      "paragraphs": [
+        "An adhesive is selected to hold surfaces together under the demands of the assembly. That can mean keeping a decorative facing aligned, joining parts with different shapes or transferring load across a defined bond area. A large bonded area and a narrow edge joint ask different things of the material and the assembly process.",
+        "Describe the actual bonding faces before comparing options. A painted metal panel presents a different surface from bare metal. Pressure during assembly, the time available before handling and exposure in service are also part of the enquiry. Samples should represent the production materials and finishes."
+      ]
+    },
+    {
+      "heading": "Sealants close joints and gaps",
+      "paragraphs": [
+        "A sealant’s role is to maintain a closure at a joint, seam or penetration. The relevant conditions may include air, water, dust or movement, depending on the detail. A narrow, stable seam in a manufactured enclosure has different demands from an exterior building joint that opens and closes as conditions change.",
+        "A useful sealant specification identifies both joint faces, the expected range of movement or exposure and the geometry of the joint. Those inputs help the technical team evaluate compatibility and identify which product information or system approvals apply."
+      ]
+    },
+    {
+      "heading": "Coatings work across a surface",
+      "paragraphs": [
+        "A coating is applied over an area to give the surface a defined finish or function. That might mean protecting an exposed face, changing its appearance or preparing it for another stage of work. The substrate, its existing finish and the conditions it will encounter determine what evidence to request.",
+        "Think about the full sequence where materials overlap. If an adhesive bonds to a coated face, the coating becomes part of the bond. If a coating is proposed over a sealant, the team should confirm compatibility and whether movement will affect the finished surface."
+      ]
+    },
+    {
+      "heading": "Turn the distinction into a usable brief",
+      "paragraphs": [
+        "Record the assembly or detail, the exposed conditions and the responsibility of each material. Add a drawing or photo with bond areas, joint edges and coated faces marked. Include the actual substrate finishes and the proposed order of work. Identify any inspection or acceptance criteria the material has to meet.",
+        "NAPCO works across adhesive, sealant and coating categories for construction and industrial applications. Share the assembly and the conditions it needs to withstand so the right category, documentation and evaluation steps can be discussed."
+      ]
+    }
+  ]
+}

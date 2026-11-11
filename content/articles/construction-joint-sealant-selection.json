@@ -1,0 +1,43 @@
+{
+  "id": "construction-joint-sealant-selection",
+  "title": "Choosing Sealants for Construction Joints",
+  "date": "2026-11-07T09:00:00+04:00",
+  "status": "published",
+  "category": "Application insight",
+  "excerpt": "A practical guide for specifiers and site teams on movement, substrate compatibility and handover when evaluating construction joint sealants.",
+  "path": "/insights/construction-joint-sealant-selection/",
+  "external": false,
+  "image": "/assets/articles/construction-joint-sealant-selection.webp",
+  "imageAlt": "Close-up of a recessed joint between architectural concrete façade slabs",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Read the joint before reading the product sheet",
+      "paragraphs": [
+        "A single building can contain joints around frames, between façade elements and where different construction materials meet. Some accommodate regular movement. Others close small gaps at a transition. Treating them as interchangeable can leave the selected sealant with conditions it was never intended to handle.",
+        "A useful joint schedule starts with the detail itself. Locate each joint on a drawing, identify the two faces and describe the expected movement and exposure. Repeated details can share a specification when the underlying conditions match."
+      ]
+    },
+    {
+      "heading": "Describe how the joint moves",
+      "paragraphs": [
+        "Temperature changes, moisture and movement of adjoining components can change a joint’s width. The design team should establish the expected range and the dimensions available for the sealant detail. A joint pictured on a drawing at one nominal width still needs to work through the conditions anticipated in service.",
+        "Where a detail specifies backing or a bond-breaker, its placement belongs in the same review. Compare the whole joint arrangement against the relevant project requirements and the supplier’s technical data before finalising the specification."
+      ]
+    },
+    {
+      "heading": "Verify the surfaces that will actually be sealed",
+      "paragraphs": [
+        "Concrete, coated aluminium and existing finishes can call for different preparation. Record the surface that the sealant will touch, along with any primer, coating or old material at that point. For refurbishment, note the condition of the existing joint and how much of the original material will be removed.",
+        "An on-site trial on representative materials gives the project team a way to review adhesion, appearance and the proposed work sequence. Agree what will be checked before the trial begins, especially where adjacent surfaces will be painted or regularly exposed to cleaning."
+      ]
+    },
+    {
+      "heading": "Make the detail inspectable",
+      "paragraphs": [
+        "Agree when site teams can see and check the joint before access closes or adjacent finishes cover it. An inspection plan can capture the condition of the faces, the completed profile and the locations covered by each check. The handover record is easier to use when it refers back to the original detail and its acceptance criteria.",
+        "NAPCO’s construction solutions cover building, protection, finishing and repair applications. For a joint-sealant enquiry, share the detail drawing, substrate finishes, movement requirement, exposure and any project-specific approvals. This gives the technical discussion a defined joint and a set of conditions to evaluate."
+      ]
+    }
+  ]
+}

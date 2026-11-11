@@ -1,0 +1,43 @@
+{
+  "id": "packaging-adhesives-folds-seams",
+  "title": "Packaging Adhesives for Folds, Seams and Finished Packs",
+  "date": "2026-11-19T09:00:00+04:00",
+  "status": "draft",
+  "category": "Industry insight",
+  "excerpt": "See how paperboard finishes, line timing and pack handling shape adhesive evaluation for folded cartons and other packaging.",
+  "path": "/insights/packaging-adhesives-folds-seams/",
+  "external": false,
+  "image": "/assets/articles/packaging-adhesives-folds-seams.webp",
+  "imageAlt": "Close-up of a red and grey folded carton with a clean unprinted seam",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Follow the seam through production",
+      "paragraphs": [
+        "A carton bond starts on a flat blank and has to survive folding, compression, handling and distribution. The adhesive faces different conditions at each stage. A practical brief follows the seam through those stages so its requirements reflect how the pack is made and used.",
+        "Identify the surfaces where the adhesive lands, the size of the overlap and the force the fold places on the joint before it sets. A blank’s coating, print or finish can change the bonding surface even when the base paperboard stays the same."
+      ]
+    },
+    {
+      "heading": "Include the time and pressure available",
+      "paragraphs": [
+        "Line speed, applicator position and compression time shape the opportunity for a seam to form. Record the ordinary range of machine settings and the conditions at start-up or after interruptions. Those are useful scenarios for a production trial because they represent what operators actually see.",
+        "Inspect seam placement and consistency during the run. Where the bond is close to a visible edge, agree how to judge marks or excess material and when the sample is ready for inspection."
+      ]
+    },
+    {
+      "heading": "Evaluate the pack in its intended conditions",
+      "paragraphs": [
+        "A seam may be loaded during packing, stacking, transport or opening. Decide which steps matter for the specific pack and what an acceptable result looks like at each one. Record any required conditioning, test method or acceptance limit as part of the brief.",
+        "Where packaging has a regulated use, identify the intended application and the documentation required by the relevant market and customer. Confirm those requirements for the exact materials and finished packaging construction being evaluated."
+      ]
+    },
+    {
+      "heading": "Use the actual blank in the conversation",
+      "paragraphs": [
+        "Share a flat blank and finished pack, with the bond areas marked. Include the board and surface finish, line settings, intended use and acceptance criteria. That information makes it easier to distinguish a material requirement from a change in the converting process.",
+        "NAPCO’s industrial application coverage includes packaging and paper. Bring the actual seam and production conditions to the technical discussion so the enquiry focuses on the pack the line must deliver."
+      ]
+    }
+  ]
+}

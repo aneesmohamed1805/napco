@@ -44,3 +44,23 @@ The image upload succeeded using locator.downloadMedia on the served article's i
 - Review safeguard: WordPress `blog_public=0`; browser-observed article robots `noindex, nofollow`.
 - **Website presentation verified — 5 November 2026:** the served single-article page now displays the featured image with the exact approved alt text and complete article body. The Website-owned reusable article-end reference `<!-- wp:block {"ref":372} /-->` is already present exactly once; the served page includes its Discuss your application action and NAPCO footer. The image loads successfully through WordPress’s responsive image rendition. Served robots remain `noindex, nofollow`. Articles made no post, template, layout or media changes during this verification.
 - Ongoing task `6ae9839540988191b92a3df877cc105d` updated in place to **NAPCO article sync and LinkedIn**, retaining its existing hourly schedule and LinkedIn duplicate safeguards while adding staging sync. A failure in one destination stays pending independently of another destination's published status.
+
+## November editorial queue — 11 November 2026
+
+The November sequence below was reconstructed from the documented topic scope. The 3 November release anchors the two-day cadence at 09:00 Asia/Dubai. The first four dates are the editorial dates retained on both website destinations. Actual release and syndication are tracked independently.
+
+| ID | Editorial date | Title | Record | Release state at preparation |
+| --- | --- | --- | --- | --- |
+| NAP-002 | 2026-11-05 | Adhesives, Sealants and Coatings: What Each One Does | [JSON](../content/articles/adhesives-sealants-coatings-differences.json) | Ready for review-site deployment |
+| NAP-003 | 2026-11-07 | Choosing Sealants for Construction Joints | [JSON](../content/articles/construction-joint-sealant-selection.json) | Ready for review-site deployment |
+| NAP-004 | 2026-11-09 | HVAC Duct Sealing and Insulation Adhesion | [JSON](../content/articles/hvac-duct-sealing-insulation-adhesion.json) | Ready for review-site deployment |
+| NAP-005 | 2026-11-11 | Adhesive Selection for Automotive Assembly | [JSON](../content/articles/automotive-assembly-adhesive-selection.json) | Ready for review-site deployment |
+| NAP-006 | 2026-11-13 | Bonding, Sealing and Coating in Electronics Assembly | [JSON](../content/articles/electronics-assembly-adhesives-sealants-coatings.json) | Scheduled queue, release commit due at 09:00 Dubai |
+| NAP-007 | 2026-11-15 | Bonding in Engineered Wood: From Surface to Press | [JSON](../content/articles/engineered-wood-bonding-process.json) | Scheduled queue, release commit due at 09:00 Dubai |
+| NAP-008 | 2026-11-17 | Adhesive Choices for Furniture Lamination and Edges | [JSON](../content/articles/furniture-lamination-edge-bonding.json) | Scheduled queue, release commit due at 09:00 Dubai |
+| NAP-009 | 2026-11-19 | Packaging Adhesives for Folds, Seams and Finished Packs | [JSON](../content/articles/packaging-adhesives-folds-seams.json) | Scheduled queue, release commit due at 09:00 Dubai |
+| NAP-010 | 2026-11-21 | Making Industrial Adhesive Bonding Repeatable | [JSON](../content/articles/industrial-adhesive-process-repeatability.json) | Scheduled queue, release commit due at 09:00 Dubai |
+
+Each article has an original text-free, logo-free conceptual cover exported as 1920 × 1080 WebP at quality 70. Generic application education only. Category and industry coverage follows NAPCO’s construction and industrial solutions pages. Technical editorial references include [3M’s adhesive selection guide](https://www.3m.com/3M/en_US/bonding-and-assembly-us/resources/choosing-industrial-adhesives-tapes/) and [ASHRAE’s duct design guidance](https://handbook.ashrae.org/handbooks/F25/SI/F25_Ch21/F25_Ch21_si.aspx). No SKU, certification, product performance or suitability claims are made.
+
+For the five queued articles, change the due record from draft to published on main at or after its recorded instant, run the site checks and verify the resulting Cloudflare build before syndicating. Leave later records in draft. A date alone does not trigger a build. Keep the two review destinations out of LinkedIn copy.

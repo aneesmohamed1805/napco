@@ -1,0 +1,43 @@
+{
+  "id": "automotive-assembly-adhesive-selection",
+  "title": "Adhesive Selection for Automotive Assembly",
+  "date": "2026-11-11T09:00:00+04:00",
+  "status": "published",
+  "category": "Industry insight",
+  "excerpt": "Explore what matters when evaluating adhesives for automotive parts, from trim and finishes to assembly timing and service conditions.",
+  "path": "/insights/automotive-assembly-adhesive-selection/",
+  "external": false,
+  "image": "/assets/articles/automotive-assembly-adhesive-selection.webp",
+  "imageAlt": "Exploded automotive door assembly with metal, dark trim and a deep red outer panel",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Start with the part and its role",
+      "paragraphs": [
+        "Automotive assembly covers parts with very different duties. Interior trim may need accurate positioning and a clean visible edge. An exterior component may face moisture, washing and temperature variation. A joint with an assigned structural function needs the validation set out by the vehicle programme.",
+        "Specify what the bond has to do in the part. Note where it sits, which directions of loading or movement matter and what a failure would affect. That description helps the engineering and sourcing teams compare candidates against the same requirements."
+      ]
+    },
+    {
+      "heading": "Identify the surfaces in production",
+      "paragraphs": [
+        "A part drawing may name the base metal or polymer, while the adhesive actually contacts a coating, a textured finish or a treated surface. Record the exact production finish, supplier variation and any mould-release residue or protective film that the process must account for.",
+        "Use representative components for the evaluation. A bond that performs on a clean laboratory coupon may behave differently at a curved trim edge, on a formed surface or across a gap created by normal assembly tolerances."
+      ]
+    },
+    {
+      "heading": "Include the time available on the line",
+      "paragraphs": [
+        "The adhesive has to fit the work sequence. Record how it will be applied, how long the assembler has to locate the part and when the assembly is first lifted, moved or packed. Where the line operates with fixtures, note the pressure and dwell the process can reliably provide.",
+        "A production trial can reveal practical differences that a data-sheet comparison misses. Observe placement accuracy, consistency of the applied material, clean-up at visible edges and the handling of parts after they leave the station."
+      ]
+    },
+    {
+      "heading": "Agree how the assembly will be accepted",
+      "paragraphs": [
+        "Use the relevant vehicle programme requirements to define testing, conditioning and acceptance. Capture which material and process changes would trigger another evaluation. Changes in paint, polymer grade, surface treatment or part geometry can affect a bond even when the visible part looks familiar.",
+        "NAPCO serves automotive fabrication and assembly applications. For a technical discussion, bring the part drawing, both bonding surfaces, the assembly timing and the expected service conditions. Those inputs help identify the questions the evaluation must answer."
+      ]
+    }
+  ]
+}

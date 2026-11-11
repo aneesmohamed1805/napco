@@ -1,0 +1,43 @@
+{
+  "id": "furniture-lamination-edge-bonding",
+  "title": "Adhesive Choices for Furniture Lamination and Edges",
+  "date": "2026-11-17T09:00:00+04:00",
+  "status": "draft",
+  "category": "Industry insight",
+  "excerpt": "What furniture manufacturers should document when evaluating adhesive bonds for decorative laminates, edging and other visible details.",
+  "path": "/insights/furniture-lamination-edge-bonding/",
+  "external": false,
+  "image": "/assets/articles/furniture-lamination-edge-bonding.webp",
+  "imageAlt": "Offset furniture panels showing textured laminate and dark edge banding",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Separate broad faces from exposed edges",
+      "paragraphs": [
+        "In furniture manufacturing, a broad laminate and a narrow edge strip may meet on the same panel while placing different demands on a bond. The broad face is judged by flatness and appearance across an area. The edge brings the bond close to trimming, corners and everyday contact.",
+        "Record each bond area separately. Identify the facing, core and edge material, including coatings or backing layers. A trial using the correct facing with a different core can miss the behaviour of the actual assembly."
+      ]
+    },
+    {
+      "heading": "Define the finish before the trial",
+      "paragraphs": [
+        "The visible surface determines what constitutes an acceptable result. Glossy faces can make irregularities easier to see, while a textured finish changes how the edge looks under light. A colour-matched edge may still show a conspicuous joint line if the fit or material placement varies.",
+        "Agree what inspectors will look for and under which lighting and viewing conditions. Include corners, seams and any profile transitions. Comparing finished samples against an agreed reference makes the decision easier to reproduce across shifts and batches."
+      ]
+    },
+    {
+      "heading": "Follow the piece through the workshop",
+      "paragraphs": [
+        "A bond may look satisfactory immediately after pressing and behave differently once the piece is routed, trimmed or moved. Build the trial around the normal order of work and the actual time between steps. Record which operations load the edge or expose a fresh section of the assembly.",
+        "Evaluate use conditions alongside production. Areas around handles, work surfaces or frequent cleaning may deserve separate checks. The intended furniture specification determines what testing is needed."
+      ]
+    },
+    {
+      "heading": "Bring a finished detail to the discussion",
+      "paragraphs": [
+        "A section drawing, material samples and a production sequence help describe the work more precisely than a generic material list. Include any visible bond-line requirements, machining steps and end-use conditions.",
+        "NAPCO’s industrial applications include furniture and building components. Bring the actual panel and edge detail when discussing options so the bond can be evaluated in the context of the final finish."
+      ]
+    }
+  ]
+}

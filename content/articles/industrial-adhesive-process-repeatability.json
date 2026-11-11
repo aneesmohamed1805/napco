@@ -1,0 +1,43 @@
+{
+  "id": "industrial-adhesive-process-repeatability",
+  "title": "Making Industrial Adhesive Bonding Repeatable",
+  "date": "2026-11-21T09:00:00+04:00",
+  "status": "draft",
+  "category": "Industry insight",
+  "excerpt": "A guide to recording the materials, process window and acceptance checks that keep an industrial bonding trial relevant to production.",
+  "path": "/insights/industrial-adhesive-process-repeatability/",
+  "external": false,
+  "image": "/assets/articles/industrial-adhesive-process-repeatability.webp",
+  "imageAlt": "Precision dispensing head over a brushed metal panel in a graphite and red fixture",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Define the bond a production line has to reproduce",
+      "paragraphs": [
+        "A promising sample can show that two materials can be joined. Production adds variation in surfaces, application timing, fit and handling. A trial that measures how the process behaves under realistic conditions gives the manufacturing team more information than a single sample prepared under ideal conditions.",
+        "Begin with a description of the assembly and the job of the bond. Record both bonding faces, the geometry and the conditions the finished part will see. Agree what an acceptable bond and an acceptable finished part look like before changing line settings."
+      ]
+    },
+    {
+      "heading": "Record the process window",
+      "paragraphs": [
+        "Capture what the line can consistently deliver, including surface preparation, the amount and placement of material, time before assembly and the point at which the part leaves its fixture. Include normal variation by shift, component batch or workstation where it could influence the result.",
+        "Select trials that represent production conditions, including the points where the process is most variable. Keep the records clear enough to trace a finished sample to its materials and settings."
+      ]
+    },
+    {
+      "heading": "Investigate recurring defects with the same records",
+      "paragraphs": [
+        "If a bond lifts, a seam opens or a visible edge varies, record where the defect appears and when it first becomes visible. Comparing affected samples with known acceptable samples can help the team decide which surface or process variable to investigate first.",
+        "Retain representative pieces and note any recent changes to components, finishes, storage or line timing. A shared record makes the discussion more productive across quality, production and the material supplier."
+      ]
+    },
+    {
+      "heading": "Agree when a change needs re-evaluation",
+      "paragraphs": [
+        "A different surface finish, new component supplier or shorter cycle can change how a bond forms. Identify which changes need a fresh trial, and retain the approved acceptance criteria so the next decision uses the same reference point.",
+        "NAPCO works across industrial bonding applications. Bring the assembly, process window and inspection requirements to the technical discussion so the evaluation can address both the bond and the conditions under which it will be produced."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "engineered-wood-bonding-process",
+  "title": "Bonding in Engineered Wood: From Surface to Press",
+  "date": "2026-11-15T09:00:00+04:00",
+  "status": "draft",
+  "category": "Industry insight",
+  "excerpt": "A look at the wood surfaces, press conditions and checks that matter when assessing an adhesive for engineered wood production.",
+  "path": "/insights/engineered-wood-bonding-process/",
+  "external": false,
+  "image": "/assets/articles/engineered-wood-bonding-process.webp",
+  "imageAlt": "Exploded timber veneer and plywood layers on a pale studio background",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Specify the lay-up as well as the adhesive",
+      "paragraphs": [
+        "Engineered wood products bring together layers with different properties and functions. A veneer facing, an internal ply and a core each present a surface to bond. The manufacturing brief should show what those layers are, how they are arranged and which faces are brought into contact.",
+        "Document the actual materials and finishes used on the line. Moisture condition, surface texture and dust can vary across stock and affect the evaluation. Use production material when preparing trials so the result reflects the combinations the factory needs to run."
+      ]
+    },
+    {
+      "heading": "Account for the working window",
+      "paragraphs": [
+        "After material is applied, operators need enough time to assemble and align the layers before pressing. Record the longest normal interval, including delays during loading and alignment. An evaluation that covers only the fastest run can miss a routine part of production.",
+        "Review pressure, time and temperature alongside the planned adhesive application. Each variable belongs to the process description. If different panel sizes or thicknesses run on the same equipment, include representative configurations in the trial."
+      ]
+    },
+    {
+      "heading": "Inspect a finished panel at useful points",
+      "paragraphs": [
+        "Look at the panel after pressing and again after the handling or machining stages relevant to its end use. Edges and cut sections can reveal issues that a visual check of the main faces may miss. Decide in advance whether the trial needs appearance checks, destructive samples or performance tests required by the product specification.",
+        "Keep notes on the lay-up, material batches and process conditions used in each trial. When the team changes a variable, the record helps it determine which adjustment affected the result."
+      ]
+    },
+    {
+      "heading": "Connect the factory trial to the intended use",
+      "paragraphs": [
+        "A panel for interior furniture, a building component and a product exposed to intermittent moisture can have different acceptance criteria. Define the intended environment and any standards or project requirements before comparing options.",
+        "NAPCO serves engineered wood applications. Share the lay-up, press conditions, production sequence and acceptance criteria when discussing the bonding requirement so the evaluation reflects the panel you actually make."
+      ]
+    }
+  ]
+}

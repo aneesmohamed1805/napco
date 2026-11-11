@@ -1,0 +1,43 @@
+{
+  "id": "hvac-duct-sealing-insulation-adhesion",
+  "title": "HVAC Duct Sealing and Insulation Adhesion",
+  "date": "2026-11-09T09:00:00+04:00",
+  "status": "published",
+  "category": "Application insight",
+  "excerpt": "Understand how duct sealing, insulation attachment and vapour control work together in an HVAC assembly, and what to include in the specification brief.",
+  "path": "/insights/hvac-duct-sealing-insulation-adhesion/",
+  "external": false,
+  "image": "/assets/articles/hvac-duct-sealing-insulation-adhesion.webp",
+  "imageAlt": "Galvanised HVAC duct flange beside a section of dark insulation",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Give every layer a defined role",
+      "paragraphs": [
+        "An insulated duct includes interfaces that look similar during installation but perform different functions. Duct seams and connections form part of the air path. Adhesion holds insulation where the system calls for bonding. Insulation facing, seams and penetrations can also be part of a vapour-control detail where one is specified.",
+        "Identify those interfaces on the duct detail before specifying materials. A schedule that describes only a generic duct adhesive or sealant can leave uncertainty about the surface, purpose and acceptance requirement at each location."
+      ]
+    },
+    {
+      "heading": "Treat duct seams as part of the air path",
+      "paragraphs": [
+        "Flanges, longitudinal seams, access doors and penetrations deserve individual attention. The project specification and duct-system requirements establish which locations need sealing and how the completed work is checked. Record the metal or coating present at the joint and where the work will be done, whether in fabrication or on site.",
+        "Plan inspection while the connections are accessible. Once insulation, facing or ceiling finishes are in place, tracing the cause of a problem may require opening areas that were already handed over."
+      ]
+    },
+    {
+      "heading": "Evaluate insulation attachment as an assembly",
+      "paragraphs": [
+        "The bonding face may be bare or coated metal, a facer or the insulation itself. The product and installation method should be evaluated with the actual surfaces, orientation and handling conditions. A flat sample on a workbench and an overhead section in a congested ceiling can place different demands on the installation sequence.",
+        "If an insulation system includes a vapour retarder, confirm how the facing is made continuous around seams, fittings and penetrations. Coordinate those details with the insulation system requirements and the designer’s approach to condensation risk."
+      ]
+    },
+    {
+      "heading": "Share the details before materials are ordered",
+      "paragraphs": [
+        "Include duct material and finish, insulation type and facing, the application location and expected service conditions. Drawings of bends, flanges and penetrations help show where the sealing and bonding tasks meet. Note the specified checks and project documentation needed for acceptance.",
+        "NAPCO supports application discussions across construction and HVAC-related sealing and bonding. Bring the duct and insulation details together so the conversation can address the interfaces installers will actually encounter."
+      ]
+    }
+  ]
+}
