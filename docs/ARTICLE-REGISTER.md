@@ -51,10 +51,10 @@ The November sequence below was reconstructed from the documented topic scope. T
 
 | ID | Editorial date | Title | Record | Release state at preparation |
 | --- | --- | --- | --- | --- |
-| NAP-002 | 2026-11-05 | Adhesives, Sealants and Coatings: What Each One Does | [JSON](../content/articles/adhesives-sealants-coatings-differences.json) | Ready for review-site deployment |
-| NAP-003 | 2026-11-07 | Choosing Sealants for Construction Joints | [JSON](../content/articles/construction-joint-sealant-selection.json) | Ready for review-site deployment |
-| NAP-004 | 2026-11-09 | HVAC Duct Sealing and Insulation Adhesion | [JSON](../content/articles/hvac-duct-sealing-insulation-adhesion.json) | Ready for review-site deployment |
-| NAP-005 | 2026-11-11 | Adhesive Selection for Automotive Assembly | [JSON](../content/articles/automotive-assembly-adhesive-selection.json) | Ready for review-site deployment |
+| NAP-002 | 2026-11-05 | Adhesives, Sealants and Coatings: What Each One Does | [JSON](../content/articles/adhesives-sealants-coatings-differences.json) | Published and verified across all three destinations |
+| NAP-003 | 2026-11-07 | Choosing Sealants for Construction Joints | [JSON](../content/articles/construction-joint-sealant-selection.json) | Published and verified across all three destinations |
+| NAP-004 | 2026-11-09 | HVAC Duct Sealing and Insulation Adhesion | [JSON](../content/articles/hvac-duct-sealing-insulation-adhesion.json) | Published and verified across all three destinations |
+| NAP-005 | 2026-11-11 | Adhesive Selection for Automotive Assembly | [JSON](../content/articles/automotive-assembly-adhesive-selection.json) | Published and verified across all three destinations |
 | NAP-006 | 2026-11-13 | Bonding, Sealing and Coating in Electronics Assembly | [JSON](../content/articles/electronics-assembly-adhesives-sealants-coatings.json) | Scheduled queue, release commit due at 09:00 Dubai |
 | NAP-007 | 2026-11-15 | Bonding in Engineered Wood: From Surface to Press | [JSON](../content/articles/engineered-wood-bonding-process.json) | Scheduled queue, release commit due at 09:00 Dubai |
 | NAP-008 | 2026-11-17 | Adhesive Choices for Furniture Lamination and Edges | [JSON](../content/articles/furniture-lamination-edge-bonding.json) | Scheduled queue, release commit due at 09:00 Dubai |
@@ -64,3 +64,16 @@ The November sequence below was reconstructed from the documented topic scope. T
 Each article has an original text-free, logo-free conceptual cover exported as 1920 × 1080 WebP at quality 70. Generic application education only. Category and industry coverage follows NAPCO’s construction and industrial solutions pages. Technical editorial references include [3M’s adhesive selection guide](https://www.3m.com/3M/en_US/bonding-and-assembly-us/resources/choosing-industrial-adhesives-tapes/) and [ASHRAE’s duct design guidance](https://handbook.ashrae.org/handbooks/F25/SI/F25_Ch21/F25_Ch21_si.aspx). No SKU, certification, product performance or suitability claims are made.
 
 For the five queued articles, change the due record from draft to published on main at or after its recorded instant, run the site checks and verify the resulting Cloudflare build before syndicating. Leave later records in draft. A date alone does not trigger a build. Keep the two review destinations out of LinkedIn copy.
+
+### Backlog release verification — 11 November 2026
+
+The four releases were deployed on the static review site in commit `7857203588a5196a3180d21ff410cf9917d576ac` and verified on 11 November. Both websites display the editorial dates above. The native LinkedIn articles were published on 11 November by Napco Adhesives (company Page 145393515). All three destinations were checked for full body, headings and the matching featured image. The static and WordPress review sites retain noindex. Each website homepage shows the latest three articles and each Insights archive includes all four releases. The two review URLs were omitted from the LinkedIn articles.
+
+| ID | Static review | WordPress staging | LinkedIn |
+| --- | --- | --- | --- |
+| NAP-002 | [Article](https://napco.aneesmohamed1805.workers.dev/insights/adhesives-sealants-coatings-differences/) | [Post 639](https://dev-new-napco.pantheonsite.io/2026/11/05/adhesives-sealants-coatings-differences/), featured attachment 648 | [Native article](https://www.linkedin.com/pulse/adhesives-sealants-coatings-what-each-one-does-napcoadhesives-9tygf/) |
+| NAP-003 | [Article](https://napco.aneesmohamed1805.workers.dev/insights/construction-joint-sealant-selection/) | [Post 641](https://dev-new-napco.pantheonsite.io/2026/11/07/construction-joint-sealant-selection/), featured attachment 643 | [Native article](https://www.linkedin.com/pulse/choosing-sealants-construction-joints-napcoadhesives-ww0if/) |
+| NAP-004 | [Article](https://napco.aneesmohamed1805.workers.dev/insights/hvac-duct-sealing-insulation-adhesion/) | [Post 642](https://dev-new-napco.pantheonsite.io/2026/11/09/hvac-duct-sealing-insulation-adhesion/), featured attachment 647 | [Native article](https://www.linkedin.com/pulse/hvac-duct-sealing-insulation-adhesion-napcoadhesives-noydf/) |
+| NAP-005 | [Article](https://napco.aneesmohamed1805.workers.dev/insights/automotive-assembly-adhesive-selection/) | [Post 640](https://dev-new-napco.pantheonsite.io/2026/11/11/automotive-assembly-adhesive-selection/), featured attachment 644 | [Native article](https://www.linkedin.com/pulse/adhesive-selection-automotive-assembly-napcoadhesives-oadtf/) |
+
+The existing hourly workflow now releases the queued records after their due time, verifies deployment, and independently checks WordPress and LinkedIn for missing copies. It also replenishes the queue when fewer than two release-ready articles remain. The next five slots run every two days from 13 to 21 November, Dubai time.
