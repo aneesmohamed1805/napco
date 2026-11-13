@@ -55,7 +55,7 @@ The November sequence below was reconstructed from the documented topic scope. T
 | NAP-003 | 2026-11-07 | Choosing Sealants for Construction Joints | [JSON](../content/articles/construction-joint-sealant-selection.json) | Published and verified across all three destinations |
 | NAP-004 | 2026-11-09 | HVAC Duct Sealing and Insulation Adhesion | [JSON](../content/articles/hvac-duct-sealing-insulation-adhesion.json) | Published and verified across all three destinations |
 | NAP-005 | 2026-11-11 | Adhesive Selection for Automotive Assembly | [JSON](../content/articles/automotive-assembly-adhesive-selection.json) | Published and verified across all three destinations |
-| NAP-006 | 2026-11-13 | Bonding, Sealing and Coating in Electronics Assembly | [JSON](../content/articles/electronics-assembly-adhesives-sealants-coatings.json) | Scheduled queue, release commit due at 09:00 Dubai |
+| NAP-006 | 2026-11-13 | Bonding, Sealing and Coating in Electronics Assembly | [JSON](../content/articles/electronics-assembly-adhesives-sealants-coatings.json) | Published and verified on both websites. LinkedIn pending sign-in. |
 | NAP-007 | 2026-11-15 | Bonding in Engineered Wood: From Surface to Press | [JSON](../content/articles/engineered-wood-bonding-process.json) | Scheduled queue, release commit due at 09:00 Dubai |
 | NAP-008 | 2026-11-17 | Adhesive Choices for Furniture Lamination and Edges | [JSON](../content/articles/furniture-lamination-edge-bonding.json) | Scheduled queue, release commit due at 09:00 Dubai |
 | NAP-009 | 2026-11-19 | Packaging Adhesives for Folds, Seams and Finished Packs | [JSON](../content/articles/packaging-adhesives-folds-seams.json) | Scheduled queue, release commit due at 09:00 Dubai |
@@ -77,3 +77,9 @@ The four releases were deployed on the static review site in commit `7857203588a
 | NAP-005 | [Article](https://napco.aneesmohamed1805.workers.dev/insights/automotive-assembly-adhesive-selection/) | [Post 640](https://dev-new-napco.pantheonsite.io/2026/11/11/automotive-assembly-adhesive-selection/), featured attachment 644 | [Native article](https://www.linkedin.com/pulse/adhesive-selection-automotive-assembly-napcoadhesives-oadtf/) |
 
 The existing hourly workflow now releases the queued records after their due time, verifies deployment, and independently checks WordPress and LinkedIn for missing copies. It also replenishes the queue when fewer than two release-ready articles remain. The next five slots run every two days from 13 to 21 November, Dubai time.
+
+### NAP-006 release verification — 13 November 2026
+
+- Static review: release commit `08e53a12ea36b53652f2fa25f8f69f41e134dc19`. Verified the served title, headings, full text, original 1920 × 1080 WebP cover, alt text and noindex. The served cover matches the committed file byte for byte.
+- WordPress staging: [Post 651](https://dev-new-napco.pantheonsite.io/2026/11/13/electronics-assembly-adhesives-sealants-coatings/), category 3, featured attachment 652. Verified the exact title, excerpt, native blocks, publication instant (05:00 UTC / 09:00 Dubai), approved cover and alt text, article-end block 372 and served noindex. The full-size staging cover matches the static cover byte for byte.
+- LinkedIn: pending. The connected browser was unavailable and the fallback browser reached LinkedIn's sign-in wall. No LinkedIn draft or article was created during this release. Check Page 145393515 published articles and drafts for the exact title before resuming.
