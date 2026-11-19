@@ -1,0 +1,43 @@
+{
+  "id": "metal-composite-bonding-joint-design",
+  "title": "Bonding Metal and Composite Parts: Start with the Joint",
+  "date": "2026-11-23T09:00:00+04:00",
+  "status": "draft",
+  "category": "Application insight",
+  "excerpt": "Explore how the overlap, surface condition and service environment shape the evaluation of bonds between metal and composite parts.",
+  "path": "/insights/metal-composite-bonding-joint-design/",
+  "external": false,
+  "image": "/assets/articles/metal-composite-bonding-joint-design.webp",
+  "imageAlt": "Brushed aluminium overlapping a graphite composite panel with a narrow visible bond interface",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Define what the connection must do",
+      "paragraphs": [
+        "A material combination is only the beginning of a bonding brief. A metal stiffener attached to a composite panel has a particular shape, load path and role in the assembly. Record where the connection sits and what happens to it during handling and use before comparing adhesive candidates.",
+        "Sketch the overlap, edge details and available space for the bond. Note whether either part can bend and where a force could start to lift one edge. Joint geometry affects how forces reach the adhesive; the material names alone do not describe that demand."
+      ]
+    },
+    {
+      "heading": "Identify the actual bonding surfaces",
+      "paragraphs": [
+        "Specify the metal grade and finish alongside the composite’s resin system and surface condition. Paint, a surface coating or a manufacturing residue may be the material the adhesive first meets. Keep representative samples of both parts so evaluation reflects the assembly being proposed.",
+        "Agree the surface preparation with the relevant material and adhesive suppliers. Record it with the sample identity and avoid assuming that results on one composite grade apply to a different construction or finish."
+      ]
+    },
+    {
+      "heading": "Include changes during service",
+      "paragraphs": [
+        "Metal and composite parts can respond differently to temperature changes. That difference can place additional demand on their connection. Include the expected temperature range and changes over time in the brief, together with any moisture exposure and repeated loading relevant to the intended use.",
+        "Assess the proposed joint as an assembly. A headline strength value from a test specimen does not establish performance for a different geometry, surface or environment. Agree which conditions and acceptance criteria the evaluation needs to represent."
+      ]
+    },
+    {
+      "heading": "Bring a clear brief to the technical discussion",
+      "paragraphs": [
+        "Share the drawing, material samples and intended service conditions alongside the production sequence. Explain how the parts will be located, held and handled while the bond develops. This gives design and production teams a common starting point for reviewing candidate materials and trials.",
+        "NAPCO’s industrial manufacturing coverage includes bonding applications involving metal and composite parts. Bring the connection and its requirements to NAPCO so the conversation starts with the assembly you need to deliver."
+      ]
+    }
+  ]
+}
