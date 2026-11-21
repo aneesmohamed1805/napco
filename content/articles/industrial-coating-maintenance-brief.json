@@ -1,0 +1,43 @@
+{
+  "id": "industrial-coating-maintenance-brief",
+  "title": "Planning Industrial Coating Maintenance: Start with the Surface",
+  "date": "2026-11-25T09:00:00+04:00",
+  "status": "draft",
+  "category": "Industry insight",
+  "excerpt": "A practical starting point for defining coating maintenance: the substrate, existing finish, exposure and conditions for the work.",
+  "path": "/insights/industrial-coating-maintenance-brief/",
+  "external": false,
+  "image": "/assets/articles/industrial-coating-maintenance-brief.webp",
+  "imageAlt": "Bare steel, graphite coated and red coated sample panels on a grey industrial work surface",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Describe the surface before choosing a coating",
+      "paragraphs": [
+        "Coating maintenance begins with the material underneath and the condition of the finish already in place. Bare steel, galvanised steel and concrete present different surfaces. A damaged coating also raises a different set of questions from a new, uncoated component.",
+        "Record the substrate, the existing coating where known and the location of damage. Note loose material, corrosion, contamination and areas where the finish has lifted. This gives the technical discussion a defined starting point and helps establish what needs closer assessment."
+      ]
+    },
+    {
+      "heading": "Separate exposure from appearance",
+      "paragraphs": [
+        "A colour match does not describe the service conditions. An indoor panel, an outdoor assembly and a surface exposed to process chemicals can have different requirements even when their finishes look similar.",
+        "Describe moisture, temperature, sunlight, chemical contact and mechanical wear where relevant. Include how the equipment is cleaned and whether access for future maintenance is limited. Use this brief to assess a proposed coating system against the actual application."
+      ]
+    },
+    {
+      "heading": "Plan preparation and application together",
+      "paragraphs": [
+        "The preparation method has to suit both the substrate and the proposed system. Existing coatings need assessment to establish whether they can remain and whether the new material is compatible with them. Cleaning alone does not settle every question about the surface.",
+        "Agree the preparation standard and application conditions using the relevant specification and technical documentation. Plan access and downtime around the required drying, curing and recoating stages. Avoid transferring a method from a different substrate or coating system without checking its relevance."
+      ]
+    },
+    {
+      "heading": "Keep a maintenance record that supports the next decision",
+      "paragraphs": [
+        "Retain the agreed surface condition, preparation method, coating system and inspection requirements with the work record. Recording where damage was found and what was repaired gives the next inspection a useful comparison.",
+        "NAPCO’s coatings serve construction and industrial applications. Bring the substrate, existing finish, exposure and maintenance constraints to NAPCO when discussing a requirement. Confirm the proposed approach against the specific application and the applicable technical documentation before work begins."
+      ]
+    }
+  ]
+}
