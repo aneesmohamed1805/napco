@@ -1,0 +1,43 @@
+{
+  "id": "footwear-bonding-material-brief",
+  "title": "Footwear Bonding: Bring the Materials and the Process Together",
+  "date": "2026-11-27T09:00:00+04:00",
+  "status": "draft",
+  "category": "Application insight",
+  "excerpt": "A practical starting point for discussing footwear bonds, from the surfaces being joined to the assembly sequence and evaluation brief.",
+  "path": "/insights/footwear-bonding-material-brief/",
+  "external": false,
+  "image": "/assets/articles/footwear-bonding-material-brief.webp",
+  "imageAlt": "Charcoal textile shoe upper above separate grey midsole and dark rubber outsole on a grey surface",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Start with the connection in the shoe",
+      "paragraphs": [
+        "Footwear brings different components together in a small space. The upper, sole and other bonded parts each have a role in the finished construction. Identify the particular connection you are reviewing before beginning an adhesive discussion.",
+        "Describe both surfaces as supplied, including their material, finish and any coating. Keep samples from the actual production materials. Two components that look similar can present different surfaces to an adhesive."
+      ]
+    },
+    {
+      "heading": "Map the assembly sequence",
+      "paragraphs": [
+        "An adhesive choice belongs within a manufacturing process. Explain how the parts reach the bonding station, how they are positioned and what happens after they are brought together. The sequence gives a technical team context that a material name or photograph cannot provide alone.",
+        "Review preparation and application requirements with the material and adhesive suppliers. Record the agreed steps and the conditions they require. Do not transfer settings from another construction without checking whether they apply to the materials and adhesive under evaluation."
+      ]
+    },
+    {
+      "heading": "Evaluate the intended construction",
+      "paragraphs": [
+        "A sample bond is useful when it represents the connection being proposed. Include the relevant materials, finishes and joint arrangement in the trial. Agree how the finished footwear will be assessed for its intended use before treating a trial as a production decision.",
+        "Record the samples, process conditions and observations together. If a material, finish or production step changes, review whether further evaluation is needed. A clear record makes comparisons more useful and helps teams distinguish a material change from a process change."
+      ]
+    },
+    {
+      "heading": "Make the technical conversation specific",
+      "paragraphs": [
+        "Bring component samples, the proposed assembly sequence and the evaluation requirements to the discussion. Explain where the difficulty occurs and what an acceptable finished connection needs to achieve. This gives design, production and technical teams a shared brief.",
+        "NAPCO’s sports and fashion coverage includes footwear applications. Share the materials and manufacturing context with NAPCO so the discussion starts with the connection you are making and the process around it."
+      ]
+    }
+  ]
+}
