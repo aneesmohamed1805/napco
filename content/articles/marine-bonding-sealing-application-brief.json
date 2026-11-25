@@ -1,0 +1,43 @@
+{
+  "id": "marine-bonding-sealing-application-brief",
+  "title": "Marine Bonding and Sealing: Define the Application First",
+  "date": "2026-11-29T09:00:00+04:00",
+  "status": "draft",
+  "category": "Industry insight",
+  "excerpt": "A clear marine application brief connects the materials, joint function, exposure and practical conditions for assembly or repair.",
+  "path": "/insights/marine-bonding-sealing-application-brief/",
+  "external": false,
+  "image": "/assets/articles/marine-bonding-sealing-application-brief.webp",
+  "imageAlt": "Pale grey boat deck panel meeting a graphite frame and brushed aluminium fitting beside a narrow dark seam",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Start with the part and its function",
+      "paragraphs": [
+        "A boat contains many different interfaces, from interior panels to exterior fittings. An adhesive or sealant enquiry becomes more useful when it identifies the particular part and the job that the joint must perform. Joining components, closing a gap and creating a finished edge can involve different requirements.",
+        "Describe whether the work is new assembly or repair, where the joint sits and which functions are required. Identify any structural responsibility separately. A material choice for an interior trim detail cannot establish suitability for a load-bearing connection or a different part of the vessel."
+      ]
+    },
+    {
+      "heading": "Identify the surfaces that will actually meet",
+      "paragraphs": [
+        "The name of the component does not fully describe its bonding surface. A metal fitting may be coated or anodised, while a panel may present a decorative finish rather than its underlying material. Existing repair materials can add further uncertainty.",
+        "Record the material on each side, its surface finish and any existing adhesive, sealant or coating. Include photographs and representative samples where available. Agree preparation and compatibility requirements against the proposed system and its technical documentation rather than assuming that one method suits every surface."
+      ]
+    },
+    {
+      "heading": "Describe exposure and movement",
+      "paragraphs": [
+        "An interior panel and an exterior joint can encounter different conditions. Water contact, sunlight, cleaning chemicals, temperature changes and movement all belong in the application discussion where relevant. The appearance of a finished seam does not establish its suitability for those conditions.",
+        "Provide the joint geometry and the expected loading or movement for technical assessment. State whether the area is periodically wet or continuously immersed, and identify any finish applied after assembly. Leave joint dimensions and material selection to an application-specific assessment supported by the relevant requirements."
+      ]
+    },
+    {
+      "heading": "Connect the brief to the work plan",
+      "paragraphs": [
+        "Access, component handling and the sequence of assembly or repair affect how a proposed system can be used. The work plan needs to account for the specified preparation, application conditions and time before the assembly enters service. Retain the agreed documentation with the repair or build record.",
+        "NAPCO’s adhesive applications include the marine industry. Bring the component details, actual surfaces, joint function and exposure to NAPCO when discussing a requirement. Confirm the proposed material and process for the particular application, including any applicable vessel or project requirements, before work begins."
+      ]
+    }
+  ]
+}
