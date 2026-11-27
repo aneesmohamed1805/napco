@@ -1,0 +1,43 @@
+{
+  "id": "flexible-lamination-layer-structure",
+  "title": "Flexible Lamination: Start with the Layer Structure",
+  "date": "2026-12-01T09:00:00+04:00",
+  "status": "draft",
+  "category": "Application insight",
+  "excerpt": "A useful flexible-lamination brief connects the layers, the surfaces being bonded and the demands of the finished construction.",
+  "path": "/insights/flexible-lamination-layer-structure/",
+  "external": false,
+  "image": "/assets/articles/flexible-lamination-layer-structure.webp",
+  "imageAlt": "Transparent film, silver foil and graphite film curling apart above a pale grey surface",
+  "sourceProject": "napco adhesive Articles",
+  "body": [
+    {
+      "heading": "Describe the complete layer structure",
+      "paragraphs": [
+        "Flexible lamination brings thin materials together in a layered construction. Paper, films and foils can appear in different combinations. Start an adhesive discussion with the proposed structure, identifying each layer and where the adhesive sits between them.",
+        "A description such as flexible packaging is a starting point, rather than a complete application brief. Share the material grades and the intended role of the finished laminate. Make clear which surfaces meet at each bonded interface."
+      ]
+    },
+    {
+      "heading": "Look at the surfaces that meet",
+      "paragraphs": [
+        "The face presented to an adhesive matters as much as the broad material name. Record whether the bonding surface is printed, coated or metallised, and include relevant supplier information. Samples should represent the materials proposed for production.",
+        "Keep changes visible in the brief. A different film grade, print system or surface finish can change the construction being evaluated. Review such changes with the relevant material and adhesive suppliers before treating a previous trial as representative."
+      ]
+    },
+    {
+      "heading": "Connect the laminate to its intended use",
+      "paragraphs": [
+        "Explain what will happen to the laminate after the layers are joined. Conversion into a finished pack and the conditions during distribution or use form part of the application context. Define the assessment requirements with the technical team before selecting a system.",
+        "Where an application involves regulated contents or particular processing conditions, request the documentation and assessment appropriate to that exact construction and use. A general description of an adhesive family does not establish suitability or compliance for a finished pack."
+      ]
+    },
+    {
+      "heading": "Build a shared conversion brief",
+      "paragraphs": [
+        "Bring together the layer structure, actual material samples, process description and intended-use requirements. Agree how trials will be recorded and assessed. Keep the observations linked to the materials and process used so later comparisons remain meaningful.",
+        "NAPCO’s industrial adhesive coverage includes flexible lamination. Share the proposed structure and conversion context with NAPCO to begin a specific technical discussion. Product choice and processing requirements should follow the assessment of the complete application."
+      ]
+    }
+  ]
+}
